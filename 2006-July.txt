@@ -1,0 +1,1386 @@
+From leticia at lgg.biz  Sat Jul  1 12:13:24 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sat, 1 Jul 2006 06:13:24 -0400 (EDT)
+Subject: [Pdassii-dlm] subido presentacion
+In-Reply-To: <BAY112-F15C6074C331C01D4818E30907D0@phx.gbl>
+References: <BAY112-F15C6074C331C01D4818E30907D0@phx.gbl>
+Message-ID: <47570.83.40.150.159.1151748804.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Ando a vueltas con el UML, tenemos algunos que se supone que son lo mismo
+pero son diferentes.
+
+localizador: la localizaci?n
+dsecuenciainicio: la conexi?n
+consultar_expediente: pues eso
+completo_imprimir: el de imprimir con todos los pasos
+
+pero de los dem?s cual es el de imprimir solo?
+
+Cuando me confimeis esto retoco el grande con los cambios que he hecho en
+el localizador y lo q sea de imprimir.
+
+Besos
+
+
+> hola!!!
+>
+> ya he subido el indice que hicimos de la presentacion con mis
+> transparencias
+> (sin nada de Leti porque no me ha llegado nada). no obstante quiero
+> depurarlas un poco, las tendre para cuando quedemos el domingo. besitos
+>
+> _________________________________________________________________
+> Hor?scopo, tarot, numerolog?a... Escucha lo que te dicen los astros.
+> http://astrocentro.msn.es/
+>
+> _______________________________________________
+> Pdassii-dlm mailing list
+> Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+>
+>
+
+
+
+
+From maria_peb23 at hotmail.com  Sat Jul  1 12:41:56 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sat, 01 Jul 2006 12:41:56 +0200
+Subject: [Pdassii-dlm] uml
+Message-ID: <BAY112-F20659882753E795E5430B190720@phx.gbl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060701/23e1fe87/attachment.html>
+
+From leticia at lgg.biz  Sat Jul  1 13:42:02 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sat, 1 Jul 2006 07:42:02 -0400 (EDT)
+Subject: [Pdassii-dlm] uml
+In-Reply-To: <BAY112-F20659882753E795E5430B190720@phx.gbl>
+References: <BAY112-F20659882753E795E5430B190720@phx.gbl>
+Message-ID: <43432.83.40.150.159.1151754122.squirrel@webmail.lgg.biz>
+
+Vale, eso es lo que pensaba.
+
+He subido mi parte de la presentaci?n a falta del UML, que lo estoy
+hacuiendo ahora.
+
+> a ver, he estado mirando lo que tengo yo y lo que hay en el cvs y he
+> llegado a la conclusion que de lo que hice yo de UML lo que vale es:
+> -dsecuenciaimprimirfinal.xmi: con el de imprimir retocado
+> -dsecuenciaconsultar.xmi: que es el de consultar expediente
+> -dsecuenciainicio: que no lo retoque porque estaba bien y que es el de
+> login de todas formas mira si hay alguna incoherencia pero yo creo que es
+> asi.   por cierto, se me olvido deciros que lo de la presentacion lo
+> guarde en la carpeta Documentos del cvs.   por cierto, ma?ana quedamos,
+> no? besitosBusca a la vez en Internet, en directorios, en enciclopedias...
+>  Atr?vete con el nuevo MSN Search
+> _______________________________________________ Pdassii-dlm mailing list
+> Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+
+
+
+
+From leticia at lgg.biz  Sat Jul  1 14:14:59 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sat, 1 Jul 2006 08:14:59 -0400 (EDT)
+Subject: [Pdassii-dlm] Varios
+In-Reply-To: <43432.83.40.150.159.1151754122.squirrel@webmail.lgg.biz>
+References: <BAY112-F20659882753E795E5430B190720@phx.gbl>
+    <43432.83.40.150.159.1151754122.squirrel@webmail.lgg.biz>
+Message-ID: <59860.83.40.150.159.1151756099.squirrel@webmail.lgg.biz>
+
+Ya le he mandado el mail a Luis Vazquez,  Mar?a mandaselo a Juanan.
+?Le mando un mail a este hombre porque necesitarmos cable de red y un
+punto en la sala de grados, porque con la wifi de la complu, que esta
+f?iltrada, no podemos hacer la demo? ?Grabamos una demo y la reproducimos?
+?Qu? se os ocurre?
+
+
+
+
+
+
+From leticia at lgg.biz  Sat Jul  1 18:32:00 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sat, 1 Jul 2006 12:32:00 -0400 (EDT)
+Subject: [Pdassii-dlm] Noticias
+In-Reply-To: <59860.83.40.150.159.1151756099.squirrel@webmail.lgg.biz>
+References: <BAY112-F20659882753E795E5430B190720@phx.gbl>   
+    <43432.83.40.150.159.1151754122.squirrel@webmail.lgg.biz>
+    <59860.83.40.150.159.1151756099.squirrel@webmail.lgg.biz>
+Message-ID: <42859.83.40.150.159.1151771520.squirrel@webmail.lgg.biz>
+
+Hola,
+
+tengo los uml corregidos y a?adido a la presentaci?n.
+
+
+
+
+
+From leticia at lgg.biz  Sat Jul  1 18:37:48 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sat, 1 Jul 2006 12:37:48 -0400 (EDT)
+Subject: [Pdassii-dlm] Noticias
+In-Reply-To: <42859.83.40.150.159.1151771520.squirrel@webmail.lgg.biz>
+References: <BAY112-F20659882753E795E5430B190720@phx.gbl>      
+    <43432.83.40.150.159.1151754122.squirrel@webmail.lgg.biz>   
+    <59860.83.40.150.159.1151756099.squirrel@webmail.lgg.biz>
+    <42859.83.40.150.159.1151771520.squirrel@webmail.lgg.biz>
+Message-ID: <51595.83.40.150.159.1151771868.squirrel@webmail.lgg.biz>
+
+Le mando lo que tenemos de presentaci?n a este hombre por si se lo quiere
+ojear o algo, como dijo que lo uqer?a ver ...
+
+
+
+From maria_peb23 at hotmail.com  Sun Jul  2 12:56:00 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sun, 02 Jul 2006 12:56:00 +0200
+Subject: [Pdassii-dlm] retoques presentacion
+Message-ID: <BAY112-F2274C34725A157D1C7EA3990730@phx.gbl>
+
+hola!!
+
+he hecho algunos retoques en la presentacion: es basicamente cambiar un par 
+de frases en lo mio para que se entienda mejor y he recolocado unos dibujos 
+de una traspa de Leti que se comian el texto. Tambien he incluido una ultima 
+transparencia de Ruegos y Preguntas para dejarla ahi cuando acabemos la 
+demo, que me han dicho que se suele hacer en las conferencias.
+
+Falta lo de David y son las 13horas del domingo!!!!!!!!!!!
+
+_________________________________________________________________
+Grandes ?xitos, superh?roes, imitaciones, cine y TV... 
+http://es.msn.kiwee.com/ Lo mejor para tu m?vil.
+
+
+
+From leticia at lgg.biz  Sun Jul  2 12:59:50 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sun, 2 Jul 2006 06:59:50 -0400 (EDT)
+Subject: [Pdassii-dlm] retoques presentacion
+In-Reply-To: <BAY112-F2274C34725A157D1C7EA3990730@phx.gbl>
+References: <BAY112-F2274C34725A157D1C7EA3990730@phx.gbl>
+Message-ID: <50113.88.9.67.203.1151837990.squirrel@webmail.lgg.biz>
+
+Hola,
+
+yo estoy con lo de medir y tal, como nos vamos a ver? de este no se sabe
+nada asi q quedamos tu y yo para lo q sea.
+
+Este hombre no ha mandado nada sobre la presentaci?n.
+
+
+
+> hola!!
+>
+> he hecho algunos retoques en la presentacion: es basicamente cambiar un
+> par
+> de frases en lo mio para que se entienda mejor y he recolocado unos
+> dibujos
+> de una traspa de Leti que se comian el texto. Tambien he incluido una
+> ultima
+> transparencia de Ruegos y Preguntas para dejarla ahi cuando acabemos la
+> demo, que me han dicho que se suele hacer en las conferencias.
+>
+> Falta lo de David y son las 13horas del domingo!!!!!!!!!!!
+>
+> _________________________________________________________________
+> Grandes ?xitos, superh?roes, imitaciones, cine y TV...
+> http://es.msn.kiwee.com/ Lo mejor para tu m?vil.
+>
+> _______________________________________________
+> Pdassii-dlm mailing list
+> Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+>
+>
+
+
+
+
+From leticia at lgg.biz  Sun Jul  2 23:20:17 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sun, 2 Jul 2006 17:20:17 -0400 (EDT)
+Subject: [Pdassii-dlm] con lo q falta
+In-Reply-To: <50113.88.9.67.203.1151837990.squirrel@webmail.lgg.biz>
+References: <BAY112-F2274C34725A157D1C7EA3990730@phx.gbl>
+    <50113.88.9.67.203.1151837990.squirrel@webmail.lgg.biz>
+Message-ID: <41079.88.9.67.203.1151875217.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Mar?a, se puede pasar un vector en la conexi?n.  Es que tengo que pasar 4
+strings y no puedo devolverlas todas juntas.
+
+Saludos,
+
+
+
+
+
+From maria_peb23 at hotmail.com  Sun Jul  2 23:35:01 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sun, 02 Jul 2006 23:35:01 +0200
+Subject: [Pdassii-dlm] con lo q falta
+In-Reply-To: <41079.88.9.67.203.1151875217.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F255FBBE0E250C202E00ED490730@phx.gbl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060702/a375b405/attachment.html>
+
+From leticia at lgg.biz  Sun Jul  2 23:42:54 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sun, 2 Jul 2006 17:42:54 -0400 (EDT)
+Subject: [Pdassii-dlm] con lo q falta
+In-Reply-To: <BAY112-F255FBBE0E250C202E00ED490730@phx.gbl>
+References: <41079.88.9.67.203.1151875217.squirrel@webmail.lgg.biz>
+    <BAY112-F255FBBE0E250C202E00ED490730@phx.gbl>
+Message-ID: <35321.88.9.67.203.1151876574.squirrel@webmail.lgg.biz>
+
+la mia es usb, solo faltan los ping
+>
+> Creo que si se puede devolver un Vector porque s? se que se puede devolver
+> una Hashtable y los dos son de java.util, asi que a las malas cambiamos el
+> vector por la hashtable una entrada con clave numero_antena y entrada la
+> IP o lo que sea.
+> Por cierto, me ha dicho Juan q me deja su impresora y que nos ayuda con
+> eso y tal. Lo que pasa es q la impresora de Juan es de puerto paralelo y
+> en mi ordenador solo hay uno, la tuya es usb? si no podemos poner una
+> impresora fisica y otra con un fichero como el que me contaste.
+> uff, toy mazo de nerviosa!!!!!!!!!!!!
+>
+>      From:  leticia at lgg.biz
+> To:  pdassii-dlm at lists.berlios.de
+> Subject:  [Pdassii-dlm] con lo q falta
+> Date:  Sun, 2 Jul 2006 17:20:17 -0400 (EDT)
+>>Hola,
+>>
+>>Mar?a, se puede pasar un vector en la conexi?n.  Es que tengo que pasar 4
+>>strings y no puedo devolverlas todas juntas.
+>>
+>>Saludos,
+>>
+>>
+>>
+>>_______________________________________________
+>>Pdassii-dlm mailing list
+>>Pdassii-dlm at lists.berlios.de
+>>http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+> Recibe ofertas de empleo adaptadas a tu perfil. Introduce tu CV en MSN
+> Empleo.   _______________________________________________ Pdassii-dlm
+> mailing list Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+
+
+
+
+From maria_peb23 at hotmail.com  Mon Jul  3 00:11:07 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Mon, 03 Jul 2006 00:11:07 +0200
+Subject: [Pdassii-dlm] con lo q falta
+In-Reply-To: <35321.88.9.67.203.1151876574.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F28AFD36D92A7A7AD20D90790730@phx.gbl>
+
+ok, al final va a quedar bastante wai. en la sala de grados hay un punto de 
+acceso a internet asi que me llevo el cable por si acaso.
+
+
+>From: leticia at lgg.biz
+>To: Mar?a Alonso <maria_peb23 at hotmail.com>
+>CC: pdassii-dlm at lists.berlios.de
+>Subject: RE: [Pdassii-dlm] con lo q falta
+>Date: Sun, 2 Jul 2006 17:42:54 -0400 (EDT)
+>
+>
+>la mia es usb, solo faltan los ping
+> >
+> > Creo que si se puede devolver un Vector porque s? se que se puede 
+>devolver
+> > una Hashtable y los dos son de java.util, asi que a las malas cambiamos 
+>el
+> > vector por la hashtable una entrada con clave numero_antena y entrada la
+> > IP o lo que sea.
+> > Por cierto, me ha dicho Juan q me deja su impresora y que nos ayuda con
+> > eso y tal. Lo que pasa es q la impresora de Juan es de puerto paralelo y
+> > en mi ordenador solo hay uno, la tuya es usb? si no podemos poner una
+> > impresora fisica y otra con un fichero como el que me contaste.
+> > uff, toy mazo de nerviosa!!!!!!!!!!!!
+> >
+> >      From:  leticia at lgg.biz
+> > To:  pdassii-dlm at lists.berlios.de
+> > Subject:  [Pdassii-dlm] con lo q falta
+> > Date:  Sun, 2 Jul 2006 17:20:17 -0400 (EDT)
+> >>Hola,
+> >>
+> >>Mar?a, se puede pasar un vector en la conexi?n.  Es que tengo que pasar 
+>4
+> >>strings y no puedo devolverlas todas juntas.
+> >>
+> >>Saludos,
+> >>
+> >>
+> >>
+> >>_______________________________________________
+> >>Pdassii-dlm mailing list
+> >>Pdassii-dlm at lists.berlios.de
+> >>http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+> > Recibe ofertas de empleo adaptadas a tu perfil. Introduce tu CV en MSN
+> > Empleo.   _______________________________________________ Pdassii-dlm
+> > mailing list Pdassii-dlm at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+>
+>
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Protecci?n para tus hijos en internet. 
+Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_proteccioninfantil
+
+
+
+From maria_peb23 at hotmail.com  Mon Jul  3 23:00:56 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Mon, 03 Jul 2006 23:00:56 +0200
+Subject: [Pdassii-dlm] acabar proyecto
+Message-ID: <BAY112-F259170C0B517A7AB14B30790700@phx.gbl>
+
+weno chicos!!!
+
+la presentacion ha salido bien pero esto no ha acabado, hay que acabar la 
+memoria. y yo personalmente creo que si arreglaramos el codigo lo antes 
+posible y nos diera tiempo a ense?arselo a Apodaca en su despacho seria un 
+empujon para que no propusiera a matricula.
+
+weno, David, en la mini-reunion que tuvimos tras la presentacion (te dijimos 
+que vinieras a buscarnos si la cafeteria no estaba abierta pero parece que 
+te dio lo mismo) acordamos que el miercoles las 3 quedamos para dejar 
+acabada la memoria, asi que espero que ya la tengas pasada a latex para 
+entonces. por cierto, el motivo de quedar tan tempranito por la tarde es que 
+yo lo mas seguro es que me tenga q ir a la academia a las 7.
+
+por cierto, sobre lo del codigo incluido por Leticia en la parte del PDA q 
+daba tantos problemas, lo he estado pensando y he llegado a la conclusion de 
+que esas instrucciones no las soporta J2ME. pero vamos q no lo he 
+comprobado. voy a ver si me miro el API y tal e investigo un poco lo de 
+hacer ping desde el PDA, pero no hoy porque me muero de sue?o.
+
+weno ya nos vemos el miercoles, a ver si se nos da bien y acabamos pronto. 
+besitos
+
+_________________________________________________________________
+Hor?scopo, tarot, numerolog?a... Escucha lo que te dicen los astros. 
+http://astrocentro.msn.es/
+
+
+
+From davidsor at gmail.com  Mon Jul  3 23:27:45 2006
+From: davidsor at gmail.com (David Soria)
+Date: Mon, 3 Jul 2006 23:27:45 +0200
+Subject: [Pdassii-dlm] acabar proyecto
+In-Reply-To: <BAY112-F259170C0B517A7AB14B30790700@phx.gbl>
+References: <BAY112-F259170C0B517A7AB14B30790700@phx.gbl>
+Message-ID: <ea27f6130607031427o4e92bdedqc1512e76980c7139@mail.gmail.com>
+
+Hola.
+Jo, entend? mal...crei entender que si la cafeta no estaba abierta ( que lo
+mas seguro que no lo estuviese, ya nos ver?amos en otro momento ) pero
+bueno, el miercoles nos vemos y lo dejamos todo terminado.
+Yo llegare a las 15h ok pero no tngo mucho tiempo...asi que tambien me viene
+bien acabar cuanto antes.
+Lo del c?digo tb lo miramos el miercoles, porque la funcion de
+"buscaNodoImpresora" o algo asi tb hay que retocarla pues hoy la hemos
+cambiado.
+
+Venga, hasta luego.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060703/39bec0d8/attachment.html>
+
+From leticia at lgg.biz  Tue Jul  4 19:15:36 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Tue, 4 Jul 2006 13:15:36 -0400 (EDT)
+Subject: [Pdassii-dlm] memoria
+Message-ID: <55237.83.40.146.144.1152033336.squirrel@webmail.lgg.biz>
+
+Voy a cambiar el uml porque al final lo hemos sacado todo de los paquetes.
+
+
+
+From maria_peb23 at hotmail.com  Tue Jul  4 20:51:40 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 04 Jul 2006 20:51:40 +0200
+Subject: [Pdassii-dlm] ping desde PDA
+Message-ID: <BAY112-F327B2D466E591C93B4E14990710@phx.gbl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060704/ec0fb0cd/attachment.html>
+
+From leticia at lgg.biz  Tue Jul  4 21:14:44 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Tue, 4 Jul 2006 15:14:44 -0400 (EDT)
+Subject: [Pdassii-dlm] ping desde PDA
+In-Reply-To: <BAY112-F327B2D466E591C93B4E14990710@phx.gbl>
+References: <BAY112-F327B2D466E591C93B4E14990710@phx.gbl>
+Message-ID: <47597.83.40.146.144.1152040484.squirrel@webmail.lgg.biz>
+
+Te enteraste bien, yo tb queria mirarlo pero llevo toda la tarde haciendo
+el uml grande porque lo que est? en el cvs no se abre y meter todos loa
+atributos y funciones de todas las clases del proyecto es largo y tedioso.
+Voy a ver si entre lo que hay en la ramas antiguas y lo que tengo soy
+capaz de terminarlo.
+
+> A ver, la verdad es que como yo no fui la encargada de lo los ping y estas
+> cosas, no me entero muy bien. pero ayer llegue a la conclusion de que el
+> PDA tiene que hacer ping a las antenas y el codigo que metio Leticia en el
+> PDA era igual que el codigo que haria eso mismo pero en el servidor pero
+> no funcionaba. y yo lo creo que es que no funciona, no por culpa del
+> compilador sino por culpa del lenguaje, no el lo mismo J2ME que java
+> normal.    weno no se todo esto que me he montado es verdad o me lo he
+> inventado, pero he intentado mirarme el API de J2ME y no he podido (seria
+> muy largo contarlo) pero he estado brujuleando en google y he encontrado
+> esta pagina donde hacen ping a una url (o por lo menos es lo que a mi me
+> parece) desde un dispositivo movil:
+> http://www.java-tips.org/java-me-tips/midp/how-to-ping-network-connection-on-j2me-device.html
+>   espero que sirva de algo. ma?ana nos vemos. por cierto, yo podre
+> quedarme toda la tarde porque al final no me dan la clase en la academia.
+> besitosCoches nuevos, coches de ocasi?n, coches de Km 0 Si piensas en
+> cambiar de coche, MSN Motor.
+> _______________________________________________ Pdassii-dlm mailing list
+> Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+
+
+
+
+From leticia at lgg.biz  Tue Jul  4 21:36:14 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Tue, 4 Jul 2006 15:36:14 -0400 (EDT)
+Subject: [Pdassii-dlm] Urgente
+In-Reply-To: <47597.83.40.146.144.1152040484.squirrel@webmail.lgg.biz>
+References: <BAY112-F327B2D466E591C93B4E14990710@phx.gbl>
+    <47597.83.40.146.144.1152040484.squirrel@webmail.lgg.biz>
+Message-ID: <49200.83.40.146.144.1152041774.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Cuando emec? el uml os ped?q que pusierais lo de vuestras clases, en el
+cvs no hay nada subido a parte de lo que hice yo. Teneis algo? Me lo
+podeis mandar? es que esto es eterno. Adem?s en algu?n correo David
+digiste que ten?as lo tuyo.
+
+
+
+From davidsor at gmail.com  Tue Jul  4 22:00:21 2006
+From: davidsor at gmail.com (David Soria)
+Date: Tue, 4 Jul 2006 22:00:21 +0200
+Subject: [Pdassii-dlm] Urgente
+In-Reply-To: <49200.83.40.146.144.1152041774.squirrel@webmail.lgg.biz>
+References: <BAY112-F327B2D466E591C93B4E14990710@phx.gbl>
+	 <47597.83.40.146.144.1152040484.squirrel@webmail.lgg.biz>
+	 <49200.83.40.146.144.1152041774.squirrel@webmail.lgg.biz>
+Message-ID: <ea27f6130607041300w52f9485ap9f0fe33fc3661dbb@mail.gmail.com>
+
+Hola.
+Acabo de llegar a casa...lo siento.
+A ver, que funciones modeladas en UML necesitas?
+No recuerdo ese mail...pero vamos, si hay que hacerlas, las hago.
+Ya me dices.
+CIAO
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060704/943c50bb/attachment.html>
+
+From leticia at lgg.biz  Tue Jul  4 22:37:18 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Tue, 4 Jul 2006 16:37:18 -0400 (EDT)
+Subject: [Pdassii-dlm] Urgente
+In-Reply-To: <ea27f6130607041300w52f9485ap9f0fe33fc3661dbb@mail.gmail.com>
+References: <BAY112-F327B2D466E591C93B4E14990710@phx.gbl> 
+    <47597.83.40.146.144.1152040484.squirrel@webmail.lgg.biz> 
+    <49200.83.40.146.144.1152041774.squirrel@webmail.lgg.biz>
+    <ea27f6130607041300w52f9485ap9f0fe33fc3661dbb@mail.gmail.com>
+Message-ID: <35934.83.40.146.144.1152045438.squirrel@webmail.lgg.biz>
+
+Os env?o lo que tengo en UML, faltan Mapa, Nodo, JavaServer y todo lo de
+la PDA. El problema es que si lo hacemos por sepadaro no lo podemos juntar
+luego.
+Si podeis hacer alguno lo de la PDA, que ir?a en un archivo aprte yo acabo
+esto.
+
+Saludos,
+
+> Hola.
+> Acabo de llegar a casa...lo siento.
+> A ver, que funciones modeladas en UML necesitas?
+> No recuerdo ese mail...pero vamos, si hay que hacerlas, las hago.
+> Ya me dices.
+> CIAO
+>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: clases.xmi
+Type: text/x-xmi
+Size: 178587 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060704/a33a2eab/attachment.bin>
+
+From maria_peb23 at hotmail.com  Tue Jul  4 23:06:39 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 04 Jul 2006 23:06:39 +0200
+Subject: [Pdassii-dlm] Urgente
+In-Reply-To: <35934.83.40.146.144.1152045438.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F80C9BD83F1E493787F8AF90710@phx.gbl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060704/af621b6a/attachment.html>
+
+From davidsor at gmail.com  Tue Jul  4 23:47:36 2006
+From: davidsor at gmail.com (David Soria)
+Date: Tue, 4 Jul 2006 23:47:36 +0200
+Subject: [Pdassii-dlm] Urgente
+In-Reply-To: <BAY112-F80C9BD83F1E493787F8AF90710@phx.gbl>
+References: <35934.83.40.146.144.1152045438.squirrel@webmail.lgg.biz>
+	 <BAY112-F80C9BD83F1E493787F8AF90710@phx.gbl>
+Message-ID: <ea27f6130607041447n38a038bds5c8d7682ece0b494@mail.gmail.com>
+
+Voy a ver que puedo adelantar yo ok?
+Por cierto, yo ma?ana estoy alli a las 15h pero a las 16h me tengo que
+pirar...lo se, es poco tiempo pero espero pasaros todo lo que tengo e
+intentar arreglar alguna otra cosa.
+Un saludito.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060704/218facb9/attachment.html>
+
+From leticia at lgg.biz  Wed Jul  5 18:29:04 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Wed, 5 Jul 2006 12:29:04 -0400 (EDT)
+Subject: [Pdassii-dlm] terminando
+Message-ID: <46585.147.96.69.118.1152116944.squirrel@webmail.lgg.biz>
+
+Indice de palabras: hay que hablar con alguien y luego Maria
+Intro: Maria
+Requisitos: David
+Valoraci?n: hay que hablar con alguien y luego Leticia
+UML Servidor y explicarlo: Leticia
+UML PDA y explicarlo: Mar?a
+Acortar Resumen: David
+Red: Leticia
+Manual usuario (pantallazo): Maria
+Arreglar codigo:
+
+- mapas y tal: David
+- ping: Leticia
+
+
+
+
+From maria_peb23 at hotmail.com  Thu Jul  6 00:10:20 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Thu, 06 Jul 2006 00:10:20 +0200
+Subject: [Pdassii-dlm] acabar memoria
+Message-ID: <BAY112-F5F1080B8BFF72D077291D90760@phx.gbl>
+
+chicos, me acuesto! como no he recibido nada vuestro todavia, tendre que 
+meterlo ma?ana por la tarde y dejarla lista para imprimir. quedamos entonces 
+en que subis al cvs lo vuestro y me mandais un mail diciendo los archivos 
+que son y yo ya los meto en los general y tal. si veo que no llegamos a las 
+50 paginas, redimiensiono dibujos tama?o  de fuente y tiro millas. lo que me 
+tocaba a mi de memoria ya lo he hecho, lo que faltaria es el indice es pero 
+creo que teniendo en cuenta que lo hemos intentado, que yo no tengo tiempo 
+para recorrer despachos y que no tenemos mucho tiempo, como lo tenemos no 
+esta mal.
+
+por cierto, ma?ana en el descanso de las clases voy a intentar ir a hablar 
+con Apodaca a ver que se cuenta de lo de la nota.
+
+y hay que pensar en la impresion. en teoria, si vosotros no fallais y lo 
+teneis todo ma?ana por la ma?ana, yo lo junto por la tarde y me lo llevo a 
+imprimir al workcenter de cerca de mi casa. ya se que quedamos que David lo 
+llevaba pero he estado pensando que hay que entregar el viernes por la 
+ma?ana y David va a estar trabajando con lo cual es mejor que lo lleve que 
+tengo que ir seguro. tambien hay que tostar un cd con todo pero eso ya os lo 
+dejo a uno de los dos porque sois los que teneis que retocar el codigo.
+
+weno ya me vais diciendo lo que habeis acabado y me decis si os parece bien 
+lo de la impresion de la memoria. besitos. ya falta menos!!!!!!!
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Protecci?n para tus hijos en internet. 
+Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_proteccioninfantil
+
+
+
+From leticia at lgg.biz  Thu Jul  6 01:01:15 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Wed, 5 Jul 2006 19:01:15 -0400 (EDT)
+Subject: [Pdassii-dlm] acabar memoria
+In-Reply-To: <BAY112-F5F1080B8BFF72D077291D90760@phx.gbl>
+References: <BAY112-F5F1080B8BFF72D077291D90760@phx.gbl>
+Message-ID: <45540.83.40.146.144.1152140475.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Veo q mi correo no se ha enviado bien asi que lo reenvio.
+
+Tengo lo del dise?o y lo de la red subido al cvs del dise?o se a?ade
+dclaseServer.png y se actualiza diseno.tex.
+De la red:
+Red.txt
+DiagramaRed.png
+plantaRed.png
+
+Me pongo con la valoraci?n orient?ndola a lo que hemos pensado. Y voy a
+ver si cambio algo de la triangulaci?n.
+
+Mando un mail con lo que suba.
+
+Besos
+
+Saludos
+> chicos, me acuesto! como no he recibido nada vuestro todavia, tendre que
+> meterlo ma?ana por la tarde y dejarla lista para imprimir. quedamos
+> entonces
+> en que subis al cvs lo vuestro y me mandais un mail diciendo los archivos
+> que son y yo ya los meto en los general y tal. si veo que no llegamos a
+> las
+> 50 paginas, redimiensiono dibujos tama?o  de fuente y tiro millas. lo que
+> me
+> tocaba a mi de memoria ya lo he hecho, lo que faltaria es el indice es
+> pero
+> creo que teniendo en cuenta que lo hemos intentado, que yo no tengo tiempo
+> para recorrer despachos y que no tenemos mucho tiempo, como lo tenemos no
+> esta mal.
+>
+> por cierto, ma?ana en el descanso de las clases voy a intentar ir a hablar
+> con Apodaca a ver que se cuenta de lo de la nota.
+>
+> y hay que pensar en la impresion. en teoria, si vosotros no fallais y lo
+> teneis todo ma?ana por la ma?ana, yo lo junto por la tarde y me lo llevo a
+> imprimir al workcenter de cerca de mi casa. ya se que quedamos que David
+> lo
+> llevaba pero he estado pensando que hay que entregar el viernes por la
+> ma?ana y David va a estar trabajando con lo cual es mejor que lo lleve que
+> tengo que ir seguro. tambien hay que tostar un cd con todo pero eso ya os
+> lo
+> dejo a uno de los dos porque sois los que teneis que retocar el codigo.
+>
+> weno ya me vais diciendo lo que habeis acabado y me decis si os parece
+> bien
+> lo de la impresion de la memoria. besitos. ya falta menos!!!!!!!
+>
+> _________________________________________________________________
+> Acepta el reto MSN Premium: Protecci?n para tus hijos en internet.
+> Desc?rgalo y pru?balo 2 meses gratis.
+> http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_proteccioninfantil
+>
+> _______________________________________________
+> Pdassii-dlm mailing list
+> Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+>
+>
+
+
+
+
+From leticia at lgg.biz  Thu Jul  6 01:23:25 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Wed, 5 Jul 2006 19:23:25 -0400 (EDT)
+Subject: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+Message-ID: <40830.83.40.146.144.1152141805.squirrel@webmail.lgg.biz>
+
+Tengo lo de la tringulaci?n, lo he subido. Me falta la valoraci?n y el
+c?digo. Ma?ana ser? otro d?a. Lo de la valoraci?n lo mando por la ma?ana.
+Besos
+
+Hola,
+
+Veo q mi correo no se ha enviado bien asi que lo reenvio.
+
+Tengo lo del dise?o y lo de la red subido al cvs del dise?o se a?ade
+dclaseServer.png y se actualiza diseno.tex.
+De la red:
+Red.txt
+DiagramaRed.png
+plantaRed.png
+
+Me pongo con la valoraci?n orient?ndola a lo que hemos pensado. Y voy a
+ver si cambio algo de la triangulaci?n.
+
+Mando un mail con lo que suba.
+
+Besos
+
+Saludos
+> chicos, me acuesto! como no he recibido nada vuestro todavia, tendre que
+meterlo ma?ana por la tarde y dejarla lista para imprimir. quedamos
+entonces
+> en que subis al cvs lo vuestro y me mandais un mail diciendo los
+archivos que son y yo ya los meto en los general y tal. si veo que no
+llegamos a las
+> 50 paginas, redimiensiono dibujos tama?o  de fuente y tiro millas. lo
+que me
+> tocaba a mi de memoria ya lo he hecho, lo que faltaria es el indice es pero
+> creo que teniendo en cuenta que lo hemos intentado, que yo no tengo
+tiempo para recorrer despachos y que no tenemos mucho tiempo, como lo
+tenemos no esta mal.
+>
+> por cierto, ma?ana en el descanso de las clases voy a intentar ir a
+hablar con Apodaca a ver que se cuenta de lo de la nota.
+>
+> y hay que pensar en la impresion. en teoria, si vosotros no fallais y lo
+teneis todo ma?ana por la ma?ana, yo lo junto por la tarde y me lo llevo
+a imprimir al workcenter de cerca de mi casa. ya se que quedamos que
+David lo
+> llevaba pero he estado pensando que hay que entregar el viernes por la
+ma?ana y David va a estar trabajando con lo cual es mejor que lo lleve
+que tengo que ir seguro. tambien hay que tostar un cd con todo pero eso
+ya os lo
+> dejo a uno de los dos porque sois los que teneis que retocar el codigo.
+>
+> weno ya me vais diciendo lo que habeis acabado y me decis si os parece bien
+> lo de la impresion de la memoria. besitos. ya falta menos!!!!!!!
+>
+> _________________________________________________________________ Acepta
+el reto MSN Premium: Protecci?n para tus hijos en internet. Desc?rgalo y
+pru?balo 2 meses gratis.
+> http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_proteccioninfantil
+>
+> _______________________________________________
+> Pdassii-dlm mailing list
+> Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+>
+>
+
+
+
+
+
+
+From davidsor at gmail.com  Thu Jul  6 09:59:35 2006
+From: davidsor at gmail.com (David Soria)
+Date: Thu, 6 Jul 2006 09:59:35 +0200
+Subject: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+In-Reply-To: <40830.83.40.146.144.1152141805.squirrel@webmail.lgg.biz>
+References: <40830.83.40.146.144.1152141805.squirrel@webmail.lgg.biz>
+Message-ID: <ea27f6130607060059q6affd73eo9c44c74d3bfa5792@mail.gmail.com>
+
+Hola chicas.
+Ahi os mando la clase "Mapa.java" y funciona bien.
+El mapa de la planta es el siguiente :
+
+Se numera de 0 a 11, de arriba a abajo y de izquierda a derecha, es decir,
+por columnas ok? Las pruebas que he hecho funcionan bien pero falta
+integrarlo con la parte de JavaServer. Espero que no de problemas. He puesto
+javadoc en la clase por si quereis cambiar algo ( para que lo entendais ) y
+luego he puesto que las impresoras sean la 1 y la 2 no?
+Venga, ya me decis.
+Ciao
+
+PD : voy a continuar con la memoria
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/802f7cd0/attachment.html>
+-------------- next part --------------
+package Triangulacion;
+
+import java.util.Vector;
+
+/*import primero.Nodo;
+import primero.punto;*/
+/** Varias cosas :
+ * -> La matriz de adyacencias contiene los siguientes valores:
+ * 	  [i][j] = 'Integer.MAX_VALUE' cuando no haya camino entre los nodos 'i' y 'j' 
+ * 	  [i][j] = 0 cuando 'i'=='j' 
+ *    [i][j] = k cuando la distancia entre 'i' y 'j' sea de valor k
+ */ 
+public class Mapa 
+{
+	/** Almacena el listado de los nodos */
+	private Vector mapNodos; 
+	/** Almacena la matriz de adyacencias */
+	private float [][] mapAristas; // Almacena en forma de matriz,el valor de las aristas
+	/** Indica el n??mero de nodos presentes en el grafo */
+	private int numNodos; // Numero de nodos presentes en la planta
+	/** Muestra la planta en la cual nos encontramos */
+	private int planta; // Planta en la cual nos situamos
+	/** Almacena la matriz de Floyd */
+	private float[][] mapFinal;
+	
+	public Mapa()
+	{
+		this.mapNodos = new Vector();
+		this.planta = 0;
+		this.numNodos = 0;		
+		this.mapAristas = this.inicializaMatriz(this.mapAristas);
+		this.mapFinal = this.inicializaMatriz(this.mapFinal);
+	}
+	
+	public Mapa(int pl,int num)
+	{
+		mapNodos = new Vector();
+		this.planta = pl;
+		this.numNodos = num;
+		this.mapAristas = this.inicializaMatriz(this.mapAristas);
+		this.mapFinal = this.inicializaMatriz(this.mapFinal);
+	}
+	
+	public int getNumNodos()
+	{
+		return this.mapNodos.size();
+	}
+	
+	public Nodo getNodo(int n)
+	{
+		Nodo naux = (Nodo)this.mapNodos.elementAt(n);
+		return naux;
+	}
+	
+	public void a?adeNodo(Nodo n)
+	{
+		this.mapNodos.addElement(n);
+	}
+	
+	public void a?adeNodo(int posicion,Nodo n)
+	{
+		this.mapNodos.add(posicion,n);
+	}
+	
+	/** A?ade la distancia dist al camino origen <--> destino en ambos sentidos
+	 *	 
+	 */
+	public void a?adeDistancia(int origen,int destino,int dist)
+	{
+		this.mapAristas[origen][destino] = dist;
+		this.mapAristas[destino][origen] = dist;
+	}
+	
+	/** Crea una instancia de la matriz de adyacencia e inicializa
+	*   las diagonales a cero y el resto a 'Integer.MAX_VALUE'
+	*/	
+	public float[][] inicializaMatriz(float [][]mat)
+	{
+		mat = new float[this.numNodos][this.numNodos];
+		for(int i = 0;i < this.numNodos;i++)
+			for(int j = 0;j < this.numNodos;j++)
+			{
+				if(i==j)
+					mat[i][j] = 0;
+				else 
+					mat[i][j] = Integer.MAX_VALUE;
+			}
+		return mat;
+	}
+	/** Realiza la copia de una matriz en otra, 
+	* 	y la devuelve como resultado
+	*/
+	public float[][] copiarMat(float[][]dest, float[][] or)
+	{
+		for(int i = 0;i<this.getNumNodos();i++)
+			for(int j = 0;j<this.getNumNodos();j++)
+				dest[i][j] = or[i][j];
+		return dest;
+	}
+	
+	/** Ejecuta el algoritmo de Floyd para hallar el camino 
+	*	m?nimo entre cada par de nodos 
+	*/
+	public float[][] Floyd()
+	{
+		copiarMat(this.mapFinal,this.mapAristas);
+		
+		for(int k = 0;k < this.getNumNodos();k++)
+			for(int i = 0;i < this.getNumNodos();i++)
+				for(int j = 0;j < this.getNumNodos();j++)
+				{
+					if(this.mapFinal[i][j]>(this.mapFinal[i][k] + this.mapFinal[k][j]))
+					{
+						this.mapFinal[i][j] = this.mapFinal[i][k] + this.mapFinal[k][j];
+					}
+				}
+		return this.mapFinal;
+	}
+	
+	/** Rastrea entre todos los nodos existentes, aquel que sea
+	*   m??s cercano a la PDA y que adem??s 
+	* 	contenga impresora, 
+	*/
+	public Nodo filtar(Nodo nod)
+	{
+		Nodo naux; // Nodo auxiliar para operar con ??l
+		boolean [] usado = new boolean [this.getNumNodos()];
+		int num = this.correspondenciaNodo(nod);
+		int nodoDistanciaMin;
+		if(nod.getTieneImp())
+			naux = (Nodo)this.mapNodos.elementAt(num);
+		else
+		{
+			do
+			{
+				nodoDistanciaMin = eligeMin(num,usado);
+				usado[nodoDistanciaMin] = true;
+				naux = (Nodo)this.mapNodos.elementAt(nodoDistanciaMin);
+			}
+			while (!naux.getTieneImp());
+		}
+		return naux;
+	}
+	
+	/** Elige el ?ndice cuyo nodo tiene una distancia menor
+	*   con el indice que le pasamos por par?metro 
+	*/
+	public int eligeMin(int n,boolean []us)
+	{
+		float minimo = Integer.MAX_VALUE;
+		int indice = 0;
+		for(int i = 0;i < this.getNumNodos();i++)
+		{
+			if(!us[i])
+				if(n!=i)	
+					if(this.mapFinal [n][i] < minimo)
+					{
+						minimo = this.mapFinal [n][i];
+						indice = i;
+					}
+			}
+		return indice;
+	}
+	
+	/** Devuelve el numero de nodo al 
+	*   que corresponde el nodo que pasamos por par?metro
+	*/
+	public int correspondenciaNodo(Nodo n)
+	{
+		int num = -1;
+		Nodo naux; // Nodo auxiliar para operar con el
+		for(int i = 0;i < this.getNumNodos(); i++)
+		{
+			naux = (Nodo)this.mapNodos.elementAt(i);
+			if(n.getX()== naux.getX())
+			{
+				if(n.getY()== naux.getY())
+				{
+					num = i;
+				}					
+			}				
+		}
+		return num;
+	}
+	/**A partir de las coordenadas devueltas por el algoritmo de
+	*  triangulacion, la funci?n devuelve el nodo donde se ubican
+	*  estas coordenadas
+	*/
+	public Nodo localizaPunto(Punto pto)
+	{
+		//Nodo retorno = null;
+		double x = pto.getX();
+		double y = pto.getY();
+		
+		for(int i = 0 ; i<this.getNumNodos(); i++ )
+		{
+			Nodo n = (Nodo)this.mapNodos.elementAt(i);
+			if((n.getX() <= x) && (n.getX() + n.getLargo())>=x)
+				if((n.getY() <= y) && (n.getY() + n.getAncho())>=y)
+					return n;
+		}
+	return null;
+	}
+	
+	/**Busca el nodo m?s cercano que contenga impresora,
+	*  a partir del nodo donde se encuentra la PDA
+	*/	
+	public Nodo buscaNodoImpresora(Punto p)
+	{
+		Nodo nodo = this.localizaPunto(p);
+		Nodo n;
+		this.Floyd();
+		n = this.filtar(nodo);
+		return n;
+	}
+	/**Funci?n que carga el mapa.
+	*  Poner a true si contiene impresora y false si no la tiene.
+	*  Si contiene impresora, hay que indicarle el numero de impresora.
+	*  Si no la tiene, poner  -1.
+	*/	
+	public Mapa cargarMapa(){
+		
+		Nodo nod0 = new Nodo(0,0,true, 1, "0",1,1);//Nodo0,contiene la impresora 1
+		Nodo nod1 = new Nodo(0,1,false, -1, "1",1,1);//Nodo1
+		Nodo nod2 = new Nodo(0,2,false, -1, "2",1,1);//Nodo2
+		Nodo nod3 = new Nodo(1,0,false, -1, "3",1,1);//Nodo3
+		Nodo nod4 = new Nodo(1,1,false, -1, "4",1,1);//Nodo4
+		Nodo nod5 = new Nodo(1,2,false, -1, "5",1,1);//Nodo5
+		Nodo nod6 = new Nodo(2,0,false, 1, "6",1,1);//Nodo6
+		Nodo nod7 = new Nodo(2,1,false, -1, "7",1,1);//Nodo7
+		Nodo nod8 = new Nodo(2,2,true, 2, "8",1,1);//Nodo8 contiene la impresora 2
+		Nodo nod9 = new Nodo(3,0,false, -1, "9",1,1);//Nodo9
+		Nodo nod10 = new Nodo(3,1,false, -1, "10",1,1);//Nodo10
+		Nodo nod11 = new Nodo(3,2,false, -1, "11",1,1);//Nodo11
+		
+		// Luego creamos el mapa
+		Mapa map = new Mapa(7,12);
+		
+		// A continuacion a??adimos los nodos EN ORDEN al mapa
+		map.a?adeNodo(nod0);
+		map.a?adeNodo(nod1);
+		map.a?adeNodo(nod2);
+		map.a?adeNodo(nod3);
+		map.a?adeNodo(nod4);
+		map.a?adeNodo(nod5);
+		map.a?adeNodo(nod6);
+		map.a?adeNodo(nod7);
+		map.a?adeNodo(nod8);
+		map.a?adeNodo(nod9);
+		map.a?adeNodo(nod10);
+		map.a?adeNodo(nod11);
+		
+		// Acto seguido a?adimos las distancias de un nodo al otro
+		map.a?adeDistancia(0,1,1);
+		map.a?adeDistancia(1,2,1);
+		map.a?adeDistancia(1,4,1);
+		map.a?adeDistancia(3,4,1);
+		map.a?adeDistancia(4,5,1);
+		map.a?adeDistancia(4,7,1);
+		map.a?adeDistancia(6,7,1);
+		map.a?adeDistancia(7,8,1);
+		map.a?adeDistancia(7,10,1);
+		map.a?adeDistancia(9,10,1);
+		map.a?adeDistancia(10,11,1);
+		
+		return map;
+	}
+}
+
+From leticia at lgg.biz  Thu Jul  6 10:34:26 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Thu, 6 Jul 2006 04:34:26 -0400 (EDT)
+Subject: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+In-Reply-To: <ea27f6130607060059q6affd73eo9c44c74d3bfa5792@mail.gmail.com>
+References: <40830.83.40.146.144.1152141805.squirrel@webmail.lgg.biz>
+    <ea27f6130607060059q6affd73eo9c44c74d3bfa5792@mail.gmail.com>
+Message-ID: <52248.147.96.4.93.1152174866.squirrel@webmail.lgg.biz>
+
+Holas,
+
+Subo la valoracion (valoracion.tex) Creo que deberiamos llegar ya a las 50
+paginas. Sino podemos incluir en diselo el diagrama de imprimir completo y
+explicar como se hace todo paso a paso.
+Me pongo con el ping. Si necesitais cualquier otra cosa, mandadme un mail
+y hacedme una perdida.
+
+> Hola chicas.
+> Ahi os mando la clase "Mapa.java" y funciona bien.
+> El mapa de la planta es el siguiente :
+>
+> Se numera de 0 a 11, de arriba a abajo y de izquierda a derecha, es decir,
+> por columnas ok? Las pruebas que he hecho funcionan bien pero falta
+> integrarlo con la parte de JavaServer. Espero que no de problemas. He
+> puesto
+> javadoc en la clase por si quereis cambiar algo ( para que lo entendais )
+> y
+> luego he puesto que las impresoras sean la 1 y la 2 no?
+> Venga, ya me decis.
+> Ciao
+>
+> PD : voy a continuar con la memoria
+>
+
+
+
+
+From davidsor at gmail.com  Thu Jul  6 10:37:32 2006
+From: davidsor at gmail.com (David Soria)
+Date: Thu, 6 Jul 2006 10:37:32 +0200
+Subject: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+In-Reply-To: <52248.147.96.4.93.1152174866.squirrel@webmail.lgg.biz>
+References: <40830.83.40.146.144.1152141805.squirrel@webmail.lgg.biz>
+	 <ea27f6130607060059q6affd73eo9c44c74d3bfa5792@mail.gmail.com>
+	 <52248.147.96.4.93.1152174866.squirrel@webmail.lgg.biz>
+Message-ID: <ea27f6130607060137y6f8e0999gce25ec7633aa47d7@mail.gmail.com>
+
+Leti, sube el resumen.tex y summary.tex porque no estan en el cvs y no puedo
+trabajar porque no los tengo aqui.Por cierto, antes se me ha olvidado
+decirtos que no puedo subir nada al cvs por restricciones en la red del
+curro...por eso os mando y os mandare cada archivo que termine.
+Besitos.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/5e7e7f62/attachment.html>
+
+From maria_peb23 at hotmail.com  Thu Jul  6 10:49:06 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Thu, 06 Jul 2006 10:49:06 +0200
+Subject: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+In-Reply-To: <ea27f6130607060137y6f8e0999gce25ec7633aa47d7@mail.gmail.com>
+Message-ID: <BAY112-F141F8A635CCACEB12599BF90770@phx.gbl>
+
+david no te preocupes por lo del cvs que a mi me viene mejor asi no me lo 
+tengo q bajar aunque luego lo subire para que no se pierda ni nada de eso.
+
+no preocuparse por lo de las paginas que con agrandar los dibujos acabamos 
+enseguida. no tenemos tiempo para ponernos a alargar tantas cosas.
+
+
+>From: "David Soria" <davidsor at gmail.com>
+>To: Proyecto <pdassii-dlm at lists.berlios.de>
+>Subject: Re: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+>Date: Thu, 6 Jul 2006 10:37:32 +0200
+>
+>Leti, sube el resumen.tex y summary.tex porque no estan en el cvs y no 
+>puedo
+>trabajar porque no los tengo aqui.Por cierto, antes se me ha olvidado
+>decirtos que no puedo subir nada al cvs por restricciones en la red del
+>curro...por eso os mando y os mandare cada archivo que termine.
+>Besitos.
+
+_________________________________________________________________
+Hor?scopo, tarot, numerolog?a... Escucha lo que te dicen los astros. 
+http://astrocentro.msn.es/
+
+
+
+From maria_peb23 at hotmail.com  Thu Jul  6 11:44:08 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Thu, 06 Jul 2006 11:44:08 +0200
+Subject: [Pdassii-dlm] urgente matricula
+Message-ID: <BAY112-F24BA346B551A412C158E4490770@phx.gbl>
+
+hola!!
+
+acabo de subir a hablar con Apodaca y me ha dicho que ha pensado no 
+mandarnos a matriculas porque no habiamos hecho pruebas y porque hay algunos 
+profesores que se toman SSII como investigacion y esto era desarrollo. Yo le 
+he dicho que estabamos sorprendidos que creia que era importante la 
+unificacion de varias tecnologias que habiamos hecho y que era investigacion 
+el algoritmo de triangulacion.
+
+asi que me ha dicho que si queremos intenta rescatar el acta y nos propone y 
+si nos propone nos ayuda a preparar la presentacion porque me ha dicho 
+varias pegas que tenia.
+
+yo le he dicho que yo si que quiero. decidme si quereis vosotros y le mando 
+un mail para decirselo. es importante que contesteis pronto.
+
+por cierto, hay que darle una copia de la memoria
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Correos m?s divertidos con fotos y textos 
+incre?bles en MSN Premium. Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_correosmasdivertidos
+
+
+
+From maria_peb23 at hotmail.com  Thu Jul  6 12:25:22 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Thu, 06 Jul 2006 12:25:22 +0200
+Subject: [Pdassii-dlm] =?iso-8859-1?B?Rlc6IE1hdHLtY3VsYQ==?=
+Message-ID: <BAY112-F52799E2C678EA1B4FB3D690770@phx.gbl>
+
+
+
+>From: Manuel Ortega <manu.ortega at fdi.ucm.es>
+>Reply-To: manu.ortega at fdi.ucm.es
+>To: Jos? David Soria Soler <davidsor at gmail.com>,Leticia Garc? Garc?a 
+><leticia at lgg.biz>,Mar?a Alonso L?pez <maria_peb23 at hotmail.com>
+>Subject: Matr?cula
+>Date: Thu, 06 Jul 2006 12:16:58 +0200
+>
+>Estimados proyectandos:
+>LO querais o no, ya estais propuestos para Matr?cula.  Tenemos que darle 
+>una
+>vuelta a la presentaci?n.
+>Un saludo
+>
+>			Manu
+>
+
+_________________________________________________________________
+Grandes ?xitos, superh?roes, imitaciones, cine y TV... 
+http://es.msn.kiwee.com/ Lo mejor para tu m?vil.
+
+
+
+From davidsor at gmail.com  Thu Jul  6 12:39:38 2006
+From: davidsor at gmail.com (David Soria)
+Date: Thu, 6 Jul 2006 12:39:38 +0200
+Subject: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+In-Reply-To: <BAY112-F141F8A635CCACEB12599BF90770@phx.gbl>
+References: <ea27f6130607060137y6f8e0999gce25ec7633aa47d7@mail.gmail.com>
+	 <BAY112-F141F8A635CCACEB12599BF90770@phx.gbl>
+Message-ID: <ea27f6130607060339h520d1e0i92d27dfe0ed13bd1@mail.gmail.com>
+
+Ahi os mando todas las partes de an?lisis de requisitos.
+Si no os gusta como ha quedado alguna cosa, no dudeis en decirmelo.
+Un besito a las dos....y por cierto, sigo sin poder cambiar lo del resumen,
+pues no est? en el cvs. Si no lo subis vosotras, debereis reducirlo un
+poquito. Es cuesti?n de quitarle solo unas lineas a la parte espa?ola e
+inglesa.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/3b68188e/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ReqNoFun.tex
+Type: application/x-tex
+Size: 1272 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/3b68188e/attachment.tex>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ReqIntExt.tex
+Type: application/x-tex
+Size: 661 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/3b68188e/attachment-0001.tex>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ReqFun.tex
+Type: application/x-tex
+Size: 2123 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/3b68188e/attachment-0002.tex>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: DescGeneral.tex
+Type: application/x-tex
+Size: 700 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/3b68188e/attachment-0003.tex>
+
+From maria_peb23 at hotmail.com  Thu Jul  6 12:43:53 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Thu, 06 Jul 2006 12:43:53 +0200
+Subject: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+In-Reply-To: <ea27f6130607060339h520d1e0i92d27dfe0ed13bd1@mail.gmail.com>
+Message-ID: <BAY112-F346978AED7EED9FD77007690770@phx.gbl>
+
+ok, lo reducimos nosotras que al final hemos quedado para esta tarde, 
+acabarlo todo.
+
+
+>From: "David Soria" <davidsor at gmail.com>
+>To: Proyecto <pdassii-dlm at lists.berlios.de>
+>Subject: Re: [Fwd: Re: [Pdassii-dlm] acabar memoria]
+>Date: Thu, 6 Jul 2006 12:39:38 +0200
+>
+>Ahi os mando todas las partes de an?lisis de requisitos.
+>Si no os gusta como ha quedado alguna cosa, no dudeis en decirmelo.
+>Un besito a las dos....y por cierto, sigo sin poder cambiar lo del resumen,
+>pues no est? en el cvs. Si no lo subis vosotras, debereis reducirlo un
+>poquito. Es cuesti?n de quitarle solo unas lineas a la parte espa?ola e
+>inglesa.
+
+
+><< ReqNoFun.tex >>
+
+
+><< ReqIntExt.tex >>
+
+
+><< ReqFun.tex >>
+
+
+><< DescGeneral.tex >>
+
+_________________________________________________________________
+Hor?scopo, tarot, numerolog?a... Escucha lo que te dicen los astros. 
+http://astrocentro.msn.es/
+
+
+
+From leticia at lgg.biz  Fri Jul  7 14:29:56 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Fri, 7 Jul 2006 08:29:56 -0400 (EDT)
+Subject: [Pdassii-dlm] matricula
+Message-ID: <48328.83.40.146.144.1152275396.squirrel@webmail.lgg.biz>
+
+Hola,
+
+He entregado todo en secretaria, tenemos 10 d?as para entregar dos copias
+de la memoria en r?stica (la de matricula tambien tiene que ser en
+r?stica). el lunes imprimo dos juegos a color y en repograf?a nos los
+encuadernan en r?stica para el jueves.
+
+El lunes por la tarde nos tenenmos que pasar a ver a este hombre para que
+nos diga que opina la presentaci?n. Ha dicho que se la mandemos cuanto
+antes, en powerpoint, para que nos haga correcciones.
+
+Nos vemos ma?ana para revisar todo.
+
+Besos.
+
+
+
+From maria_peb23 at hotmail.com  Sat Jul  8 14:30:16 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sat, 08 Jul 2006 14:30:16 +0200
+Subject: [Pdassii-dlm] trabajo de fin de semana
+Message-ID: <BAY112-F20290F1F8A9465B8C6DDF090750@phx.gbl>
+
+hola!!!
+
+este mail es especialmente para David. Leticia y yo hemos quedado esta tarde 
+para retocar la transparencias de la presentacion segun las indicaciones de 
+Apodaca. en cuanto esten te las mandaremos y tb se las mandaremos a Apodaca 
+que queria revisarlas este finde para reunion del lunes. tambien vamos a 
+arreglar el codigo para la demo definitiva.
+
+ya sabemos que no puedes quedar todas las tardes pero creemos que seria 
+conveniente que vinieras el lunes porque el martes es la exposicion de 
+matricula y no es plan. supongo que quedaremos a las 15h, como siempre y lo 
+primero sera ir a hablar con Apodaca.
+
+besitos para todos
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Correos m?s divertidos con fotos y textos 
+incre?bles en MSN Premium. Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_correosmasdivertidos
+
+
+
+From leticia at lgg.biz  Thu Jul 13 20:32:35 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Thu, 13 Jul 2006 14:32:35 -0400 (EDT)
+Subject: [Pdassii-dlm] encuadernar memoria
+Message-ID: <54798.83.40.151.87.1152815555.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Estan encuadernando la memoria, es mejor que la de la facultad, las tapas
+son duras y va reforzada. Custa 5.9? cada una. Est?n para ma?ana por la
+tarde. El lunes las cambio en Secretar?a. Mar?a te veo a las 11 para que
+la firmes. David, ?Contigo que hacemos?
+
+Saludos,
+
+
+
+
+From davidsor at gmail.com  Mon Jul 17 01:44:26 2006
+From: davidsor at gmail.com (David Soria)
+Date: Mon, 17 Jul 2006 01:44:26 +0200
+Subject: [Pdassii-dlm] encuadernar memoria
+In-Reply-To: <54798.83.40.151.87.1152815555.squirrel@webmail.lgg.biz>
+References: <54798.83.40.151.87.1152815555.squirrel@webmail.lgg.biz>
+Message-ID: <ea27f6130607161644o72ad9d9eqe7edd9f9392e38f3@mail.gmail.com>
+
+Joder, entre unas cosas y otras se me ha olvidado escribiros.
+Pegate un garabato en mi nombre y asi no tengo que ir a firmar ok? Bueno, en
+realidad me gustar?a haberlo hecho, firmar y eso, pero como no me viene muy
+bien, pues hacer cualquier cosa y arreglado. Por cierto, siento lo de la
+matricula.
+Un besote a las dos.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060717/de795bda/attachment.html>
+

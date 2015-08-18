@@ -1,0 +1,191 @@
+From maria_peb23 at hotmail.com  Sat Dec  3 12:19:29 2005
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sat, 03 Dec 2005 12:19:29 +0100
+Subject: [Pdassii-dlm] RE: [Fwd: Libros y software]
+In-Reply-To: <3121.147.96.4.118.1133509905.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F2236C5005CC06669CCF019904F0@phx.gbl>
+
+Por mi esta todo bien xo se llama Wireless Toolkit. Estoy haciendo lo de 
+inicio y para el envio de mensajes entre el servidor y el PDA, como dijo 
+Leticia, hay que usar XML xo una version (o como se diga) que se llama 
+XML-RPC. Esta cosa no viene nativa en J2ME y hay que meterla. No se como 
+sera, me imagino que habra que bajarse un API. Investigare sobre ello 
+(porque de momento solo he estado leyendo como seria la mejor forma de 
+hacerlo y tal) y ya os dire si hace falta que se nos instale algo de esto.
+
+Aprovecho este mail para ver si me funciona despues de la suscripcion la 
+lista de correo, por cierto que he visto que a la de Apodaca no os habeis 
+suscrito.
+
+El otro dia creo que os dije mal algo de lo del CVS. El Attic es donde estan 
+escritas todas las cosas que se han borrado con remove, no las versiones 
+antiguas. ?stas se pueden obtener con un comando y creo que hay una forma de 
+verlas si le das por no se donde del CVS.
+
+Pasadlo bien
+
+>From: leticia at lgg.biz
+>To: maria_peb23 at hotmail.com, davidsor at gmail.com
+>Subject: [Fwd: Libros y software]
+>Date: Fri, 2 Dec 2005 02:51:45 -0500 (EST)
+>
+>Os reeenvio lo del sw que veo que no os lleg?.
+>Para que funcione la lsita hay que suscribirse. Donde se consulta el
+>correo, al lado de cada lista pone: [suscribe, unsuscribe, preferences]
+>pues dando hay os env?a un correo para que confirmeis la suscripci?n y
+>entonces ya os llegan. Adem?s es ah? donde se configura a que correo
+>quereis que os llegue.
+>Espero que os sirba de ayuda.
+>
+>---------------------------- Mensaje original ----------------------------
+>Hola,
+>
+>Varias cositas. Los libros ya est?n pedidos. Se han pedido dos de cada
+>(uno para sacar y uno para dejar en sala).
+>
+>Esto es lo que le voy a enviar a Apodaca. Revisadlo por si se me olvida 
+>algo.
+>
+>Necesitamos la instalaci?n de:
+>- umbrello para Linux
+>- plugings de J2ME y el wifi toolkit para Eclipse en Linux y en Windows -
+>mysql en Linux
+>
+>Adem?s necesitamos montar un servidor: sistema operativo Linux, servidor
+>de impresi?n CUPS. Nosotros lo instalar?amos y solo lo conectar?amos a la
+>red cuando lo necesit?ramos.
+>
+>Saludos,
+>
+>
+>
+>
+>
+>
+
+_________________________________________________________________
+?Est?s pensando en cambiar de coche? Todas los modelos de serie y extras en 
+MSN Motor. http://motor.msn.es/researchcentre/
+
+
+
+From leticia at lgg.biz  Tue Dec  6 15:00:50 2005
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Tue, 6 Dec 2005 09:00:50 -0500 (EST)
+Subject: [Pdassii-dlm] software proyecto PDA
+Message-ID: <57221.62.175.22.253.1133877650.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Necesitamos la instalaci?n de:
+- umbrello para Linux
+- plugings de J2ME y el wireless toolkit para Eclipse en Linux y en Windows
+- mysql en Linux
+
+Adem?s necesitamos montar un servidor: sistema operativo Linux, servidor
+de impresi?n CUPS. Nosotros lo instalar?amos y solo lo conectar?amos a la
+red cuando lo necesit?ramos.
+
+
+Saludos,
+
+
+
+
+
+
+From maria_peb23 at hotmail.com  Sun Dec 11 15:12:26 2005
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sun, 11 Dec 2005 15:12:26 +0100
+Subject: [Pdassii-dlm] proxima reunion
+Message-ID: <BAY112-F164D6DC3796431867442D990470@phx.gbl>
+
+Hola chicos!!!
+
+Espero que lo hayais pasado bien el puente si es que lo habeis tenido (no 
+como yo que he tenido un antipuente).
+
+Weno, el motivo de este mail es para deciros que creo que el jueves 
+deberiamos tener la ?ltima reuni?n con Apodaca y con nosotros mismos dado 
+que el jueves de la siguiente semana ya estamos de vacaciones y el lunes 
+anterior (19) yo no puedo quedar en nuestras horas libres comunes porque 
+tengo cita con el m?dico desde hace mazo (la sanidad privada ya no es lo que 
+era) y no voy a dejarla pasar.
+
+No se si teneis algo nuevo que contar pero si he hecho algunos avances y me 
+gustaria comentaroslos. Dichos avances os los podeis bajar del CVS (no lo he 
+subido antes porque tantas carpetas era un lio una a una y tarde bastante en 
+conseguir que me funcionara Cervisia). Adem?s creo que deberiamos hablar de 
+cual va a ser el plan de ahora en adelante hasta febrero porque me imagino 
+que todos querremos estudiar para los examenes...
+
+As? que si ninguno de nosotros tenemos ning?n impeimento con lo de quedar 
+este jueves propongo que David mande un mail a Apodaca para quedar con el 
+(lo digo porque siempre es el el que le manda los mails no por otro 
+motivo... y le quedan tan bien...). Espero vuestras contestaciones, besitos
+
+_________________________________________________________________
+M?viles, DVD, c?maras digitales, coleccionismo... Con unas ofertas que ni te 
+imaginas. http://www.msn.es/Subastas/
+
+
+
+From davidsor at gmail.com  Mon Dec 12 11:28:14 2005
+From: davidsor at gmail.com (David Soria)
+Date: Mon, 12 Dec 2005 11:28:14 +0100
+Subject: [Pdassii-dlm] =?ISO-8859-1?Q?reuni=F3n?=
+Message-ID: <ea27f6130512120228u5f24ea68t@mail.gmail.com>
+
+Yo  me encargo de enviarle el mail al se?or jefe para quedar el jueves
+a las 16h, como de costumbre vale? Asi podemos hacer una planificaci?n
+junto a ?l de en que debemos trabajar durante las navidades y ?poca de
+examenes. Yo tambi?n tengo cosas que contaros el jueves, asi que nos
+vemos all?.
+
+Besitos
+
+
+From maria_peb23 at hotmail.com  Tue Dec 20 16:34:28 2005
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 20 Dec 2005 16:34:28 +0100
+Subject: [Pdassii-dlm] funciona!!!!
+Message-ID: <BAY112-F40F7046E58A052B480CE6903E0@phx.gbl>
+
+Buenas noticias!!!
+
+Acabo de subir al cvs la ultima prueba de tecnologia en la que se puede 
+acceder desde el pda a datos de la base de datos y a procedimientos en la 
+clase del servidor. Esto solo es una simulaci?n, habr?a que hacer unas 
+pruebecillas, por ejemplo intentar que el servidor este el otro ordenador 
+que no sea en el que se esta simulando el pda y cuando dispongamos de pda 
+con la propia pda (no vaya a ser que el retardo sea algo increible...). Weno 
+pues eso, que ahora que ya esta conseguido esto lo que voy a hacer es 
+ponerlo bonito y definitivo y tal y nada m?s hasta despu?s de los examenes 
+que supongo que me pondre con los del algoritmo de Djistra (o como se 
+escriba) a no ser que hay que hacer otras cosas.
+
+Leticia, sobre lo del sistema de ecuaciones y tal. La verdad es que no se 
+exactamente qu? es lo que tienes que resolver pero si lo que estas buscando 
+con el sistema saber si un punto pertenece a 3 esferas puedes intentarlo 
+asi: te coges el punto y te calculas la distancia al centro de una de las 
+esferas; si esta distancia es mayor que el radio esta fuera de la esfera y 
+si es menor esta dentro. Si ya sabes que esta dentro de una de las esferas 
+para saber si esta dentro de las otras solo tienes que meter el punto en la 
+ecuacion para ver si se te verifica la  ecuacion. Espero que te sirva de 
+ayuda.
+
+Por cierto no he visto nada que no sea mio en el CVS. Quiero recordaros la 
+importancia de usar esta herramienta para que todos sepamos como va el 
+trabajo  de los demas, porque ademas hace control de versiones el solito y 
+porque esta bien guardadito y a salvo de los virus en nuestros ordenadores y 
+de nuestros propios despites.
+
+Felices fiestas peque?os!!!!
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Correos m?s divertidos con fotos y textos 
+incre?bles en MSN Premium. Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_correosmasdivertidos
+
+
+

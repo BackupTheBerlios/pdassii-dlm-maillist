@@ -1,0 +1,513 @@
+From davidsor at gmail.com  Tue Apr  4 11:44:44 2006
+From: davidsor at gmail.com (David Soria)
+Date: Tue, 4 Apr 2006 11:44:44 +0200
+Subject: [Pdassii-dlm] donde andandaremos?
+Message-ID: <ea27f6130604040244o58d52ff1q6717ada548f16737@mail.gmail.com>
+
+Hola chicas...que tal todo?
+Oye os escribo porque no puedo sino preocuparme de vosotras y de nuestro
+proyecto...estamos dejando pasar el tiempo de una manera bastante importante
+y despiadada y creo que no nos podemos permitir eso...Estamos en abril,
+quedan poco mas de dos meses para que tengamos que presentar el proyecto y
+ultimamente esto no avanza mucho.
+Me he mirado cosillas de servidores de impresi?n, y entre eso y lo que sabe
+Leti,pues podemos sacar algo en claro.
+Ya me dec?s algo al respecto de quedar y dem?s cosas.
+
+Espero que est?is bien.
+Un besito
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060404/3d094f6b/attachment.html>
+
+From maria_peb23 at hotmail.com  Tue Apr  4 16:44:29 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 04 Apr 2006 16:44:29 +0200
+Subject: [Pdassii-dlm] continuar proyecto
+Message-ID: <BAY112-F7EC8FCF0D9EDE1F1BF25290CA0@phx.gbl>
+
+hola!!!
+
+yo concretamente despues de la reunion que tuvimos David y yo sobre 
+unificaci?n, tengo que reconocer que he estado perdida porque se me han 
+juntado todas las practicas en una semana. No obstante, no tengo deberes 
+para esta Semana Santa, excepto una practica de LSO, (si, todavia sigo con 
+ella) asi que hab?a pensado dejar a punto mi parte para la unificaci?n con 
+vuestro trabajo (la verdad es que son solo unos detalles que por alguna 
+razon no consigo resolver) y adem?s habia pensado, si os parece bien y si me 
+da tiempo, hacer el caso de uso de consultar expediente que me parece f?cil 
+y podr?a ser algo m?s que presentar para compensar el retraso que llevamos.
+
+por lo que me ha contado Leticia, el problema con la triangulaci?n parece 
+que lo ha resuelto Luis V?zquez as? que yo propongo una unificaci?n real 
+despues de semana santa. creo que es posible. propongo que quedemos el 
+martes de la vuelta de vacaciones por la tarde (yo a partir de la 1 estoy 
+libre) y nos hablemos de la situaci?n del trabajo de cada uno y pensemos en 
+fechas y podr?amos ir a hablar con Apodaca.
+
+weno, ya me comentais que os parece todo esto y me confirmais la reunion, 
+vale? felices vacaciones y cuidado con las torrijas
+
+_________________________________________________________________
+Grandes ?xitos, superh?roes, imitaciones, cine y TV... 
+http://es.msn.kiwee.com/ Lo mejor para tu m?vil.
+
+
+
+From leticia at lgg.biz  Mon Apr 10 12:04:10 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Mon, 10 Apr 2006 06:04:10 -0400 (EDT)
+Subject: [Pdassii-dlm] Nuevo estado
+In-Reply-To: <BAY112-F7EC8FCF0D9EDE1F1BF25290CA0@phx.gbl>
+References: <BAY112-F7EC8FCF0D9EDE1F1BF25290CA0@phx.gbl>
+Message-ID: <1348.147.96.4.118.1144663450.squirrel@webmail.lgg.biz>
+
+
+
+
+
+From leticia at lgg.biz  Mon Apr 10 12:06:51 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Mon, 10 Apr 2006 06:06:51 -0400 (EDT)
+Subject: [Pdassii-dlm] [Fwd: Nuevo estado]
+Message-ID: <1350.147.96.4.118.1144663611.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Ahora si que escribo. Nuevas y buenas noticias. Ya no lanza excepciones,
+pero a veces por el redondeo calcula mal. Lo estoy revisando. Lo he subido
+al cvs por si lo quereis ojear.
+
+Besos y felices vacaiones.
+
+
+
+
+
+
+
+
+From maria_peb23 at hotmail.com  Sat Apr 15 16:57:10 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sat, 15 Apr 2006 16:57:10 +0200
+Subject: [Pdassii-dlm] quedar despues de vacaciones
+Message-ID: <BAY112-F28E97EF70ACE2EF669AF8C90C10@phx.gbl>
+
+Hola!!
+
+que tal las vacaciones? yo como os comente estoy haciendo cosas del 
+proyecto, he conseguido solucionar algunos de los problemas que daban  los 
+diferentes menus del pda, aun sigo trabajando en ello, y he comenzado lo que 
+seria el esbozo de el caso de uso de la consulta del expediente. es por esto 
+por lo que me he dado cuenta de que tengo que cambiar la clase de la base de 
+datos y ando un poco liada porque no se mysql.
+
+creo que deberiamos quedar la semana que viene para comentar nuestros 
+avances, porque por lo que comento leticia (y por lo que me comento a mi 
+personalmente luis vazquez)  parece que lo del algoritmo deberia estar ya 
+solucionado y la parte de david ya estaba desde antes de vacaciones y estaba 
+mirando la forma de montar el servidor de impresion. asi que todo apunta que 
+la unificacion de todo lo nuestro deberia hacerse ya mismo. a mi me viene 
+bien quedar cualquier dia de la semana que viene por la tarde menos el 
+viernes. y ya puestos, el dia que mejor me viene quedar es el miercoles a 
+las 4, pero vamos, que si no me adapto. decidme algo por favor y aprovechad 
+los ultimos dias de vacaciones. besitos
+
+_________________________________________________________________
+?Est?s pensando en cambiar de coche? Todas los modelos de serie y extras en 
+MSN Motor. http://motor.msn.es/researchcentre/
+
+
+
+From leticia at lgg.biz  Sun Apr 16 18:09:42 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sun, 16 Apr 2006 12:09:42 -0400 (EDT)
+Subject: [Pdassii-dlm] Buenas noticias
+In-Reply-To: <ea27f6130604040244o58d52ff1q6717ada548f16737@mail.gmail.com>
+References: <ea27f6130604040244o58d52ff1q6717ada548f16737@mail.gmail.com>
+Message-ID: <40241.83.40.149.76.1145203782.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Tengo buenas noticias. Para una resoluci?na nal?tica sin problemas hay que
+transladar el origen y rotar los ejes.
+
+En los casos en los que no es necesaria rotaci?n calcula el punto con un
+error m?ximo de 50 cm. Las rotaciones las estoy depuranso. Nos vemos esta
+semana.
+
+Besos.
+
+PD: Lo he subido todo al CVS
+
+
+
+From maria_peb23 at hotmail.com  Mon Apr 17 12:11:18 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Mon, 17 Apr 2006 12:11:18 +0200
+Subject: [Pdassii-dlm] Buenas noticias
+In-Reply-To: <40241.83.40.149.76.1145203782.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F3771BA89A3B2D070DD425990C70@phx.gbl>
+
+Wai Leticia!!!!!!!!!!!!
+
+Podemos concretar cuando quedamos? Es que tengo q pedir hora para el medico 
+y lo tengo por la tarde y tal. Yo ya os comente como me venia bien. Decidme 
+algo por favor.
+
+>From: leticia at lgg.biz
+>To: pdassii-dlm at lists.berlios.de
+>Subject: [Pdassii-dlm] Buenas noticias
+>Date: Sun, 16 Apr 2006 12:09:42 -0400 (EDT)
+>
+>Hola,
+>
+>Tengo buenas noticias. Para una resoluci?na nal?tica sin problemas hay que
+>transladar el origen y rotar los ejes.
+>
+>En los casos en los que no es necesaria rotaci?n calcula el punto con un
+>error m?ximo de 50 cm. Las rotaciones las estoy depuranso. Nos vemos esta
+>semana.
+>
+>Besos.
+>
+>PD: Lo he subido todo al CVS
+>
+>_______________________________________________
+>Pdassii-dlm mailing list
+>Pdassii-dlm at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+
+_________________________________________________________________
+?Est?s pensando en cambiar de coche? Todas los modelos de serie y extras en 
+MSN Motor. http://motor.msn.es/researchcentre/
+
+
+
+From davidsor at gmail.com  Tue Apr 18 14:06:44 2006
+From: davidsor at gmail.com (David Soria)
+Date: Tue, 18 Apr 2006 14:06:44 +0200
+Subject: [Pdassii-dlm] Buenas noticias
+In-Reply-To: <BAY112-F3771BA89A3B2D070DD425990C70@phx.gbl>
+References: <40241.83.40.149.76.1145203782.squirrel@webmail.lgg.biz>
+	 <BAY112-F3771BA89A3B2D070DD425990C70@phx.gbl>
+Message-ID: <ea27f6130604180506i4efb667u4bc953647b711c46@mail.gmail.com>
+
+Hola.
+Yo el miercoles no puedo...lo siento vaya.
+Pero el jueves si quereis podemos quedar como siempre, a eso de las 16h,
+para juntarnos y hablar del apret?n final que tenemos que hacer para sacar
+esto adelante.
+Un beso
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060418/58b779ae/attachment.html>
+
+From maria_peb23 at hotmail.com  Tue Apr 18 16:24:59 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 18 Apr 2006 16:24:59 +0200
+Subject: [Pdassii-dlm] Buenas noticias
+In-Reply-To: <ea27f6130604180506i4efb667u4bc953647b711c46@mail.gmail.com>
+Message-ID: <BAY112-F712D6FB8525A5850BBA2A90C40@phx.gbl>
+
+Vaya si, porque Leticia y yo nos habiamos encontrado por la facul y habiamos 
+quedado ya para ma?ana. Pues nada, a mi el jueves a las 16 en el hall me 
+parece bien asi que si a Leticia le parece bien quedamos en eso.
+
+Por cierto, Leticia me ha comentado que el codigo de David que hay en el CVS 
+tiene errores !?
+
+Confirmadme si quedamos, vale?
+
+_________________________________________________________________
+Descubre la descarga digital con MSN Music. M?s de un mill?n de canciones. 
+http://music.msn.es/
+
+
+
+From leticia at lgg.biz  Tue Apr 18 22:30:53 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Tue, 18 Apr 2006 16:30:53 -0400 (EDT)
+Subject: [Pdassii-dlm] Buenas noticias
+In-Reply-To: <ea27f6130604180506i4efb667u4bc953647b711c46@mail.gmail.com>
+References: <40241.83.40.149.76.1145203782.squirrel@webmail.lgg.biz> 
+    <BAY112-F3771BA89A3B2D070DD425990C70@phx.gbl>
+    <ea27f6130604180506i4efb667u4bc953647b711c46@mail.gmail.com>
+Message-ID: <40334.83.40.149.76.1145392253.squirrel@webmail.lgg.biz>
+
+> Hola.
+> Yo el miercoles no puedo...lo siento vaya.
+> Pero el jueves si quereis podemos quedar como siempre, a eso de las 16h,
+> para juntarnos y hablar del apret?n final que tenemos que hacer para sacar
+> esto adelante.
+> Un beso
+>
+Mejor a las 16.30 que salgo a las 4 de clase y tengo que comer.
+
+Saludos.
+
+
+
+From leticia at lgg.biz  Thu Apr 20 22:59:45 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Thu, 20 Apr 2006 16:59:45 -0400 (EDT)
+Subject: [Pdassii-dlm] Los errores, integracion
+In-Reply-To: <ea27f6130604040244o58d52ff1q6717ada548f16737@mail.gmail.com>
+References: <ea27f6130604040244o58d52ff1q6717ada548f16737@mail.gmail.com>
+Message-ID: <60996.88.9.66.192.1145566785.squirrel@webmail.lgg.biz>
+
+Buenas chicos,
+
+Lo primero es que lo mio est? subido. Lo segundo que he mirado cual es el
+error. Es por la organizaci?n de los paquetes. Tenemos que ponerlos bien
+organizados y tal. Si os parece bien, hago un esquema de como creo que
+ir?an los mios y los de David y lo ordenamos todo bien. Luego habr?a que
+unirlo con los de Mar?a. Adem?s necesitaremos ese esquema para la memoria,
+lo puedo pasar a UML.
+
+Saludos,
+
+Leticia
+
+
+
+From maria_peb23 at hotmail.com  Thu Apr 20 23:37:42 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Thu, 20 Apr 2006 23:37:42 +0200
+Subject: [Pdassii-dlm] Los errores, integracion
+In-Reply-To: <60996.88.9.66.192.1145566785.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F34E994AC9C603C1F3F49FF90BA0@phx.gbl>
+
+lo mio tb esta subido menos las actas atrasadas... sorry tengo unas 
+decimillas y no me encuentro muy bien. ya estamos en contacto. besitos
+
+_________________________________________________________________
+Grandes ?xitos, superh?roes, imitaciones, cine y TV... 
+http://es.msn.kiwee.com/ Lo mejor para tu m?vil.
+
+
+
+From maria_peb23 at hotmail.com  Sun Apr 23 21:38:15 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Sun, 23 Apr 2006 21:38:15 +0200
+Subject: [Pdassii-dlm] holamundo y documentos de berlios
+Message-ID: <BAY112-F59E78EDB26A817B5A491590B90@phx.gbl>
+
+hola chicos!!!
+
+ya he subido las actas que faltaban (una mia y otra de david). por cierto 
+que al ver los documentos he visto que hay uno de triangulacion de leticia 
+que esta pending: Leticia, ?quieres que lo suba?
+
+he subido a los documentos en la seccion de tutoriales, un pdf que me han 
+pasado de latex. yo todavia no me lo he mirado pero supongo que servira de 
+ayuda.
+
+por lo demas he estado trabajando en el pda y tal y ya controlo yo el flujo 
+del programa pero algunas de las alarmas han dejado de funcionar, no se por 
+que es. pero seguire trabajando en todo lo acordado.
+
+por cierto, que os mando un holamundo para que se pruebe en un pda. mando el 
+proyecto de eclipse. se ven unas cosas en la pantalla (letra e imagen) y hay 
+un boton de salir.
+
+ya estamos en contacto. besitos
+
+_________________________________________________________________
+Descubre la descarga digital con MSN Music. M?s de un mill?n de canciones. 
+http://music.msn.es/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Prueba1.tar.gz
+Type: application/x-gzip
+Size: 4945 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060423/c8f9af15/attachment.bin>
+
+From leticia at lgg.biz  Sun Apr 23 23:00:23 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sun, 23 Apr 2006 17:00:23 -0400 (EDT)
+Subject: [Pdassii-dlm] holamundo y documentos de berlios
+In-Reply-To: <BAY112-F59E78EDB26A817B5A491590B90@phx.gbl>
+References: <BAY112-F59E78EDB26A817B5A491590B90@phx.gbl>
+Message-ID: <58268.88.9.66.192.1145826023.squirrel@webmail.lgg.biz>
+
+Buenas,
+
+Ya lo probar?. Estoy haciendo un UML megac?smico. Lo paso para que lo
+ojeeis. Estan los paquetes con las clases y los atributos y todo.
+
+Saludos,
+
+P.D.:Tengo que subirlo a Berlios y subir el acta.
+
+> hola chicos!!!
+>
+> ya he subido las actas que faltaban (una mia y otra de david). por cierto
+> que al ver los documentos he visto que hay uno de triangulacion de leticia
+> que esta pending: Leticia, ?quieres que lo suba?
+>
+> he subido a los documentos en la seccion de tutoriales, un pdf que me han
+> pasado de latex. yo todavia no me lo he mirado pero supongo que servira de
+> ayuda.
+>
+> por lo demas he estado trabajando en el pda y tal y ya controlo yo el
+> flujo
+> del programa pero algunas de las alarmas han dejado de funcionar, no se
+> por
+> que es. pero seguire trabajando en todo lo acordado.
+>
+> por cierto, que os mando un holamundo para que se pruebe en un pda. mando
+> el
+> proyecto de eclipse. se ven unas cosas en la pantalla (letra e imagen) y
+> hay
+> un boton de salir.
+>
+> ya estamos en contacto. besitos
+>
+> _________________________________________________________________
+> Descubre la descarga digital con MSN Music. M?s de un mill?n de canciones.
+> http://music.msn.es/
+>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: UML.xmi
+Type: application/octet-stream
+Size: 231501 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060423/eb3c44ce/attachment.obj>
+
+From leticia at lgg.biz  Mon Apr 24 15:57:46 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Mon, 24 Apr 2006 09:57:46 -0400 (EDT)
+Subject: [Pdassii-dlm] (no subject)
+Message-ID: <43833.147.96.80.58.1145887066.squirrel@webmail.lgg.biz>
+
+Hola
+
+He subido lo que tengo hecho del UML de clases del proyecto.
+Solo aparecen los paquetes con lo m?o y lo de David. Lo m?s c?modo es que
+cada uno complete lo suyo, que le costar? menos trabajo.
+
+Yo adem?s de completar lo m?o voy a integrar lo de los casos de uso y lo
+que vea que puede quedar bien en la memoria.
+
+Saludos.
+
+
+
+From davidsor at gmail.com  Mon Apr 24 19:08:33 2006
+From: davidsor at gmail.com (David Soria)
+Date: Mon, 24 Apr 2006 19:08:33 +0200
+Subject: [Pdassii-dlm] (no subject)
+In-Reply-To: <43833.147.96.80.58.1145887066.squirrel@webmail.lgg.biz>
+References: <43833.147.96.80.58.1145887066.squirrel@webmail.lgg.biz>
+Message-ID: <ea27f6130604241008q33bb5898n4619f1e7d688528d@mail.gmail.com>
+
+Vamos a ver, no entiendo una cosa. Lo del UML lo veo claro pero en el codigo
+de cada archivo .java, has modificado tambi?n los paquetes para ponerlos
+todos de la misma manera, lo digo por aclararme y saber que versi?n de
+archivos me he bajado para intentar integrar. Si no has puesto aun el nombre
+de los paquetes iguales, please ponlos y as? me vuelvo a descargar esos
+archivos y trabajo con una version "mejor" de cada archivo .java.
+
+Un saludin
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060424/aa5fe230/attachment.html>
+
+From leticia at lgg.biz  Mon Apr 24 22:32:39 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Mon, 24 Apr 2006 16:32:39 -0400 (EDT)
+Subject: [Pdassii-dlm] (no subject)
+In-Reply-To: <ea27f6130604241008q33bb5898n4619f1e7d688528d@mail.gmail.com>
+References: <43833.147.96.80.58.1145887066.squirrel@webmail.lgg.biz>
+    <ea27f6130604241008q33bb5898n4619f1e7d688528d@mail.gmail.com>
+Message-ID: <58888.88.9.66.192.1145910759.squirrel@webmail.lgg.biz>
+
+Los archivos estan ordenados en paquetes tal como describe el UML. Adem?s
+he puesto las clases con mat?scula. Solo he reorganizado las clases y
+renombrado unos par?metros de entrada a procesos para que quedar?n m?s
+uniformes y encajaran con el UML. Esta todo en berlios para que te lo
+puedas bajar.
+
+Besos
+
+Leticia
+
+> Vamos a ver, no entiendo una cosa. Lo del UML lo veo claro pero en el
+> codigo
+> de cada archivo .java, has modificado tambi?n los paquetes para ponerlos
+> todos de la misma manera, lo digo por aclararme y saber que versi?n de
+> archivos me he bajado para intentar integrar. Si no has puesto aun el
+> nombre
+> de los paquetes iguales, please ponlos y as? me vuelvo a descargar esos
+> archivos y trabajo con una version "mejor" de cada archivo .java.
+>
+> Un saludin
+>
+
+
+
+
+From maria_peb23 at hotmail.com  Tue Apr 25 11:54:32 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 25 Apr 2006 11:54:32 +0200
+Subject: [Pdassii-dlm] (no subject)
+In-Reply-To: <58888.88.9.66.192.1145910759.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F844A9CDB931F1E18F5A1E90BF0@phx.gbl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060425/b07c5fb2/attachment.html>
+
+From maria_peb23 at hotmail.com  Thu Apr 27 21:46:35 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Thu, 27 Apr 2006 21:46:35 +0200
+Subject: [Pdassii-dlm] lo q ya he hecho
+Message-ID: <BAY112-F325361058BCCFF37ACB3F490BD0@phx.gbl>
+
+hola chicos!!!
+
+he estado trabajando en el proyecto como podeis ver en el cvs. segun mis 
+calculos lo unico que me falta por arreglar (que no dependa de vuestro 
+trabajo) es que salten las alarmas que todavia no se por que no funcionan. 
+digo segun mis calculos porque no me apunte todo lo que tenia q hacer y no 
+veo el acta por ninguna parte y como no soy quien para exigir que se suba 
+con prontitud porque yo soy la 1? que se olvida simplemente le pido a 
+Leticia que me refresque la memoria.
+
+la parte de la funcion de imprimir que hace la consulta a la base de datos 
+para obtener el expediente/analisis ya esta hecha. he puesto que se guarde 
+el String del documento porque no sabia lo que habia que mandar al cups, 
+pero me imagino que con la ruta de donde se encuentra el documento llegara, 
+no? ya me lo decis para que lo arregle.
+
+y creo que no se me olvida nada mas. cuando saque tiempo para el proyecto me 
+pongo con lo de las alarmas (es q tego dos entregas la semana q viene y voy 
+a estar todo el tiempo pringada con eso) ya me decis cuando quereis que 
+quedemos o lo que sea. pasad buen puente
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Correos m?s divertidos con fotos y textos 
+incre?bles en MSN Premium. Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_correosmasdivertidos
+
+
+
+From leticia at lgg.biz  Sat Apr 29 11:01:39 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Sat, 29 Apr 2006 05:01:39 -0400 (EDT)
+Subject: [Pdassii-dlm] acta y otros
+Message-ID: <33011.88.9.66.192.1146301299.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Por fin he subido el acta. es que me acordaba en la facultad y ten?a el
+papel en casa (cuando llegaba a casa se me olvidaba).
+
+Sed buenos,
+
+
+
+
+

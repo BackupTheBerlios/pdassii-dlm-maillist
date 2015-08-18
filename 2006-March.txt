@@ -1,0 +1,152 @@
+From leticia at lgg.biz  Wed Mar  1 10:47:16 2006
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Wed, 1 Mar 2006 04:47:16 -0500 (EST)
+Subject: [Pdassii-dlm] volver al trabajo
+In-Reply-To: <BAY112-F36D5705D1A14A2574C7D1990F70@phx.gbl>
+References: <3491.147.96.4.38.1141115505.squirrel@webmail.lgg.biz>
+    <BAY112-F36D5705D1A14A2574C7D1990F70@phx.gbl>
+Message-ID: <1186.147.96.4.38.1141206436.squirrel@webmail.lgg.biz>
+
+El viernes tengo clase de pr?cticas de ISBC de 2 a 4 por lo dem?s no hay
+problema, me decis.
+
+> Yo creo que entonces mejor lo dejamos para el viernes porque teniendo en
+> cuenta que David tenia nuevo trabajo asignado seria mejor que estuviera ?l
+> presente. Yo el viernes tengo clase de 9 a 10 y a las 10:30 tengo revision
+> de SO (s?, otra vez) y supongo que a ultima hora de la ma?ana, antes de
+> las
+> 4 (que tengo clase otra vez) podremos hacer un hueco todos, no? ya me lo
+> decis
+>
+>
+>>From: leticia at lgg.biz
+>>To: Mar?a Alonso <maria_peb23 at hotmail.com>
+>>Subject: Re: [Pdassii-dlm] volver al trabajo
+>>Date: Tue, 28 Feb 2006 03:31:45 -0500 (EST)
+>>
+>> > hola chicos!!!
+>> >
+>> > espero que os haya ido bien los examenes. Leticia me habia comentados
+>> en
+>> > una
+>> > ocasion que a ver si quedabamos despues de los examenes y a mi me
+>> parece
+>> > muy
+>> > adecuado para evaluar en que punto estamos despues del paron de los
+>> > examenes
+>> > y fijarnos nuevas metas.
+>> >
+>> > a mi me da lo mismo cuando quedar pero tiene que ser por las tardes a
+>> > cualquier hora menos la de los viernes (que tengo toda la tarde
+>> ingles)
+>>y
+>> > la
+>> > de los miercoles solo a partir de las 4 que es cuando acabo. ya me
+>> > contareis
+>> > cuando os viene bien. besitos
+>>
+>>Mis horas libres son:
+>>- Lunes y Mi?rcoles de 15:00 a 17:00
+>>- Viernes de 7:'00 a 18:00
+>>
+>>Puedo sacar alg?n otro hueco pero saltandome clases y tal, si podemos
+>>quedar en esos mejor.
+>>
+>>Saludos,
+>>
+>> >
+>> > _________________________________________________________________
+>> > Moda para esta temporada. Ponte al d?a de todas las tendencias.
+>> > http://www.msn.es/Mujer/moda/default.asp
+>> >
+>> > _______________________________________________
+>> > Pdassii-dlm mailing list
+>> > Pdassii-dlm at lists.berlios.de
+>> > http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+>> >
+>> >
+>>
+>>
+>
+> _________________________________________________________________
+> ?Est?s pensando en cambiar de coche? Todas los modelos de serie y extras
+> en
+> MSN Motor. http://motor.msn.es/researchcentre/
+>
+> _______________________________________________
+> Pdassii-dlm mailing list
+> Pdassii-dlm at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/pdassii-dlm
+>
+>
+
+
+
+
+From maria_peb23 at hotmail.com  Wed Mar  1 11:08:50 2006
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Wed, 01 Mar 2006 11:08:50 +0100
+Subject: [Pdassii-dlm] volver al trabajo
+In-Reply-To: <1186.147.96.4.38.1141206436.squirrel@webmail.lgg.biz>
+Message-ID: <BAY112-F14C07E959FC01E59B6F60890F40@phx.gbl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060301/96f656be/attachment.html>
+
+From davidsor at gmail.com  Wed Mar  1 17:25:45 2006
+From: davidsor at gmail.com (David Soria)
+Date: Wed, 1 Mar 2006 17:25:45 +0100
+Subject: [Pdassii-dlm] volver al trabajo
+In-Reply-To: <BAY112-F14C07E959FC01E59B6F60890F40@phx.gbl>
+References: <1186.147.96.4.38.1141206436.squirrel@webmail.lgg.biz>
+	 <BAY112-F14C07E959FC01E59B6F60890F40@phx.gbl>
+Message-ID: <ea27f6130603010825h4cb50a9eo@mail.gmail.com>
+
+A las 12h me parece buena hora.
+Contad conmigo!
+
+Besitos.
+Maria suerte en la revision de SO!
+Animo.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060301/ee7c442c/attachment.html>
+
+From davidsor at gmail.com  Thu Mar 23 16:07:32 2006
+From: davidsor at gmail.com (David Soria)
+Date: Thu, 23 Mar 2006 16:07:32 +0100
+Subject: [Pdassii-dlm] SSII
+Message-ID: <ea27f6130603230707ud49a8e0w@mail.gmail.com>
+
+Hola a las dos.
+Bueno, a Mar?a ya la he visto durante el d?a.
+
+Mar?a y yo hemos visto como poner todo junto y de momento no vemos
+demasiados problemas para juntarlo. La parte de localizar la impresora mas
+cercana est? acabada y la parte de los menus Mar?a sigue pele?ndose con
+ello, pero no creo que le vaya a provocar muchos problemas.
+Me voy a poner a mirar documentaci?n del CUPS para empezar a obtener ideas
+de como desarrollar el caso de uso de "encolar" un trabajo en una impresora.
+
+Por cierto, animo con lo de tu padre Leti, espero que est? mejor.
+Un besito a las dos.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060323/b1741101/attachment.html>
+
+From davidsor at gmail.com  Thu Mar 23 19:59:22 2006
+From: davidsor at gmail.com (David Soria)
+Date: Thu, 23 Mar 2006 19:59:22 +0100
+Subject: [Pdassii-dlm] Fwd: SSII
+In-Reply-To: <ea27f6130603230707ud49a8e0w@mail.gmail.com>
+References: <ea27f6130603230707ud49a8e0w@mail.gmail.com>
+Message-ID: <ea27f6130603231059k60f60a94p@mail.gmail.com>
+
+Perdona Leti, es animo con lo de tu madre...se me fue la pinza.
+Animo y que vaya todo bien.
+
+Un beso
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060323/de611698/attachment.html>
+

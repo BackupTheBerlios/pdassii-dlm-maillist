@@ -1,0 +1,345 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Fwd: Re: [Pdassii-dlm] acabar memoria]
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/pdassii-dlm/2006-July/index.html" >
+   <LINK REL="made" HREF="mailto:pdassii-dlm%40lists.berlios.de?Subject=Re%3A%20%5BFwd%3A%20Re%3A%20%5BPdassii-dlm%5D%20acabar%20memoria%5D&In-Reply-To=%3Cea27f6130607060059q6affd73eo9c44c74d3bfa5792%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000141.html">
+   <LINK REL="Next"  HREF="000143.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Fwd: Re: [Pdassii-dlm] acabar memoria]</H1>
+    <B>David Soria</B> 
+    <A HREF="mailto:pdassii-dlm%40lists.berlios.de?Subject=Re%3A%20%5BFwd%3A%20Re%3A%20%5BPdassii-dlm%5D%20acabar%20memoria%5D&In-Reply-To=%3Cea27f6130607060059q6affd73eo9c44c74d3bfa5792%40mail.gmail.com%3E"
+       TITLE="[Fwd: Re: [Pdassii-dlm] acabar memoria]">davidsor at gmail.com
+       </A><BR>
+    <I>Thu Jul  6 09:59:35 CEST 2006</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000141.html">[Fwd: Re: [Pdassii-dlm] acabar memoria]
+</A></li>
+        <LI>Next message: <A HREF="000143.html">[Fwd: Re: [Pdassii-dlm] acabar memoria]
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#142">[ date ]</a>
+              <a href="thread.html#142">[ thread ]</a>
+              <a href="subject.html#142">[ subject ]</a>
+              <a href="author.html#142">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hola chicas.
+Ahi os mando la clase &quot;Mapa.java&quot; y funciona bien.
+El mapa de la planta es el siguiente :
+
+Se numera de 0 a 11, de arriba a abajo y de izquierda a derecha, es decir,
+por columnas ok? Las pruebas que he hecho funcionan bien pero falta
+integrarlo con la parte de JavaServer. Espero que no de problemas. He puesto
+javadoc en la clase por si quereis cambiar algo ( para que lo entendais ) y
+luego he puesto que las impresoras sean la 1 y la 2 no?
+Venga, ya me decis.
+Ciao
+
+PD : voy a continuar con la memoria
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/802f7cd0/attachment.html">https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20060706/802f7cd0/attachment.html</A>&gt;
+-------------- next part --------------
+package Triangulacion;
+
+import java.util.Vector;
+
+/*import primero.Nodo;
+import primero.punto;*/
+/** Varias cosas :
+ * -&gt; La matriz de adyacencias contiene los siguientes valores:
+ * 	  [i][j] = 'Integer.MAX_VALUE' cuando no haya camino entre los nodos 'i' y 'j' 
+ * 	  [i][j] = 0 cuando 'i'=='j' 
+ *    [i][j] = k cuando la distancia entre 'i' y 'j' sea de valor k
+ */ 
+public class Mapa 
+{
+	/** Almacena el listado de los nodos */
+	private Vector mapNodos; 
+	/** Almacena la matriz de adyacencias */
+	private float [][] mapAristas; // Almacena en forma de matriz,el valor de las aristas
+	/** Indica el n??mero de nodos presentes en el grafo */
+	private int numNodos; // Numero de nodos presentes en la planta
+	/** Muestra la planta en la cual nos encontramos */
+	private int planta; // Planta en la cual nos situamos
+	/** Almacena la matriz de Floyd */
+	private float[][] mapFinal;
+	
+	public Mapa()
+	{
+		this.mapNodos = new Vector();
+		this.planta = 0;
+		this.numNodos = 0;		
+		this.mapAristas = this.inicializaMatriz(this.mapAristas);
+		this.mapFinal = this.inicializaMatriz(this.mapFinal);
+	}
+	
+	public Mapa(int pl,int num)
+	{
+		mapNodos = new Vector();
+		this.planta = pl;
+		this.numNodos = num;
+		this.mapAristas = this.inicializaMatriz(this.mapAristas);
+		this.mapFinal = this.inicializaMatriz(this.mapFinal);
+	}
+	
+	public int getNumNodos()
+	{
+		return this.mapNodos.size();
+	}
+	
+	public Nodo getNodo(int n)
+	{
+		Nodo naux = (Nodo)this.mapNodos.elementAt(n);
+		return naux;
+	}
+	
+	public void a?adeNodo(Nodo n)
+	{
+		this.mapNodos.addElement(n);
+	}
+	
+	public void a?adeNodo(int posicion,Nodo n)
+	{
+		this.mapNodos.add(posicion,n);
+	}
+	
+	/** A?ade la distancia dist al camino origen &lt;--&gt; destino en ambos sentidos
+	 *	 
+	 */
+	public void a?adeDistancia(int origen,int destino,int dist)
+	{
+		this.mapAristas[origen][destino] = dist;
+		this.mapAristas[destino][origen] = dist;
+	}
+	
+	/** Crea una instancia de la matriz de adyacencia e inicializa
+	*   las diagonales a cero y el resto a 'Integer.MAX_VALUE'
+	*/	
+	public float[][] inicializaMatriz(float [][]mat)
+	{
+		mat = new float[this.numNodos][this.numNodos];
+		for(int i = 0;i &lt; this.numNodos;i++)
+			for(int j = 0;j &lt; this.numNodos;j++)
+			{
+				if(i==j)
+					mat[i][j] = 0;
+				else 
+					mat[i][j] = Integer.MAX_VALUE;
+			}
+		return mat;
+	}
+	/** Realiza la copia de una matriz en otra, 
+	* 	y la devuelve como resultado
+	*/
+	public float[][] copiarMat(float[][]dest, float[][] or)
+	{
+		for(int i = 0;i&lt;this.getNumNodos();i++)
+			for(int j = 0;j&lt;this.getNumNodos();j++)
+				dest[i][j] = or[i][j];
+		return dest;
+	}
+	
+	/** Ejecuta el algoritmo de Floyd para hallar el camino 
+	*	m?nimo entre cada par de nodos 
+	*/
+	public float[][] Floyd()
+	{
+		copiarMat(this.mapFinal,this.mapAristas);
+		
+		for(int k = 0;k &lt; this.getNumNodos();k++)
+			for(int i = 0;i &lt; this.getNumNodos();i++)
+				for(int j = 0;j &lt; this.getNumNodos();j++)
+				{
+					if(this.mapFinal[i][j]&gt;(this.mapFinal[i][k] + this.mapFinal[k][j]))
+					{
+						this.mapFinal[i][j] = this.mapFinal[i][k] + this.mapFinal[k][j];
+					}
+				}
+		return this.mapFinal;
+	}
+	
+	/** Rastrea entre todos los nodos existentes, aquel que sea
+	*   m??s cercano a la PDA y que adem??s 
+	* 	contenga impresora, 
+	*/
+	public Nodo filtar(Nodo nod)
+	{
+		Nodo naux; // Nodo auxiliar para operar con ??l
+		boolean [] usado = new boolean [this.getNumNodos()];
+		int num = this.correspondenciaNodo(nod);
+		int nodoDistanciaMin;
+		if(nod.getTieneImp())
+			naux = (Nodo)this.mapNodos.elementAt(num);
+		else
+		{
+			do
+			{
+				nodoDistanciaMin = eligeMin(num,usado);
+				usado[nodoDistanciaMin] = true;
+				naux = (Nodo)this.mapNodos.elementAt(nodoDistanciaMin);
+			}
+			while (!naux.getTieneImp());
+		}
+		return naux;
+	}
+	
+	/** Elige el ?ndice cuyo nodo tiene una distancia menor
+	*   con el indice que le pasamos por par?metro 
+	*/
+	public int eligeMin(int n,boolean []us)
+	{
+		float minimo = Integer.MAX_VALUE;
+		int indice = 0;
+		for(int i = 0;i &lt; this.getNumNodos();i++)
+		{
+			if(!us[i])
+				if(n!=i)	
+					if(this.mapFinal [n][i] &lt; minimo)
+					{
+						minimo = this.mapFinal [n][i];
+						indice = i;
+					}
+			}
+		return indice;
+	}
+	
+	/** Devuelve el numero de nodo al 
+	*   que corresponde el nodo que pasamos por par?metro
+	*/
+	public int correspondenciaNodo(Nodo n)
+	{
+		int num = -1;
+		Nodo naux; // Nodo auxiliar para operar con el
+		for(int i = 0;i &lt; this.getNumNodos(); i++)
+		{
+			naux = (Nodo)this.mapNodos.elementAt(i);
+			if(n.getX()== naux.getX())
+			{
+				if(n.getY()== naux.getY())
+				{
+					num = i;
+				}					
+			}				
+		}
+		return num;
+	}
+	/**A partir de las coordenadas devueltas por el algoritmo de
+	*  triangulacion, la funci?n devuelve el nodo donde se ubican
+	*  estas coordenadas
+	*/
+	public Nodo localizaPunto(Punto pto)
+	{
+		//Nodo retorno = null;
+		double x = pto.getX();
+		double y = pto.getY();
+		
+		for(int i = 0 ; i&lt;this.getNumNodos(); i++ )
+		{
+			Nodo n = (Nodo)this.mapNodos.elementAt(i);
+			if((n.getX() &lt;= x) &amp;&amp; (n.getX() + n.getLargo())&gt;=x)
+				if((n.getY() &lt;= y) &amp;&amp; (n.getY() + n.getAncho())&gt;=y)
+					return n;
+		}
+	return null;
+	}
+	
+	/**Busca el nodo m?s cercano que contenga impresora,
+	*  a partir del nodo donde se encuentra la PDA
+	*/	
+	public Nodo buscaNodoImpresora(Punto p)
+	{
+		Nodo nodo = this.localizaPunto(p);
+		Nodo n;
+		this.Floyd();
+		n = this.filtar(nodo);
+		return n;
+	}
+	/**Funci?n que carga el mapa.
+	*  Poner a true si contiene impresora y false si no la tiene.
+	*  Si contiene impresora, hay que indicarle el numero de impresora.
+	*  Si no la tiene, poner  -1.
+	*/	
+	public Mapa cargarMapa(){
+		
+		Nodo nod0 = new Nodo(0,0,true, 1, &quot;0&quot;,1,1);//Nodo0,contiene la impresora 1
+		Nodo nod1 = new Nodo(0,1,false, -1, &quot;1&quot;,1,1);//Nodo1
+		Nodo nod2 = new Nodo(0,2,false, -1, &quot;2&quot;,1,1);//Nodo2
+		Nodo nod3 = new Nodo(1,0,false, -1, &quot;3&quot;,1,1);//Nodo3
+		Nodo nod4 = new Nodo(1,1,false, -1, &quot;4&quot;,1,1);//Nodo4
+		Nodo nod5 = new Nodo(1,2,false, -1, &quot;5&quot;,1,1);//Nodo5
+		Nodo nod6 = new Nodo(2,0,false, 1, &quot;6&quot;,1,1);//Nodo6
+		Nodo nod7 = new Nodo(2,1,false, -1, &quot;7&quot;,1,1);//Nodo7
+		Nodo nod8 = new Nodo(2,2,true, 2, &quot;8&quot;,1,1);//Nodo8 contiene la impresora 2
+		Nodo nod9 = new Nodo(3,0,false, -1, &quot;9&quot;,1,1);//Nodo9
+		Nodo nod10 = new Nodo(3,1,false, -1, &quot;10&quot;,1,1);//Nodo10
+		Nodo nod11 = new Nodo(3,2,false, -1, &quot;11&quot;,1,1);//Nodo11
+		
+		// Luego creamos el mapa
+		Mapa map = new Mapa(7,12);
+		
+		// A continuacion a??adimos los nodos EN ORDEN al mapa
+		map.a?adeNodo(nod0);
+		map.a?adeNodo(nod1);
+		map.a?adeNodo(nod2);
+		map.a?adeNodo(nod3);
+		map.a?adeNodo(nod4);
+		map.a?adeNodo(nod5);
+		map.a?adeNodo(nod6);
+		map.a?adeNodo(nod7);
+		map.a?adeNodo(nod8);
+		map.a?adeNodo(nod9);
+		map.a?adeNodo(nod10);
+		map.a?adeNodo(nod11);
+		
+		// Acto seguido a?adimos las distancias de un nodo al otro
+		map.a?adeDistancia(0,1,1);
+		map.a?adeDistancia(1,2,1);
+		map.a?adeDistancia(1,4,1);
+		map.a?adeDistancia(3,4,1);
+		map.a?adeDistancia(4,5,1);
+		map.a?adeDistancia(4,7,1);
+		map.a?adeDistancia(6,7,1);
+		map.a?adeDistancia(7,8,1);
+		map.a?adeDistancia(7,10,1);
+		map.a?adeDistancia(9,10,1);
+		map.a?adeDistancia(10,11,1);
+		
+		return map;
+	}
+}
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000141.html">[Fwd: Re: [Pdassii-dlm] acabar memoria]
+</A></li>
+	<LI>Next message: <A HREF="000143.html">[Fwd: Re: [Pdassii-dlm] acabar memoria]
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#142">[ date ]</a>
+              <a href="thread.html#142">[ thread ]</a>
+              <a href="subject.html#142">[ subject ]</a>
+              <a href="author.html#142">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/pdassii-dlm">More information about the Pdassii-dlm
+mailing list</a><br>
+</body></html>

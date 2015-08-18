@@ -1,0 +1,299 @@
+From maria_peb23 at hotmail.com  Wed Nov  9 13:40:54 2005
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Wed, 09 Nov 2005 13:40:54 +0100
+Subject: [Pdassii-dlm] cambios en cvs
+Message-ID: <BAY104-F17BAD73793B79E421DAF1290670@phx.gbl>
+
+hola chicos!!!
+
+ya he creado un modulo de memoria en el cvs en los que he metido la primera 
+version del caso de uso imprimir (la del otro dia) y la primera version del 
+caso de uso inicio junto con los cambios que acordamos el otro dia sobre 
+imprimir. Todavia no hay diagramas sobre esto y no van a estar hasta que yo 
+me compre un raton para el portatil (que sera cuanto antes por supuesto)
+
+tambien he subido el acta de david del otro dia.
+
+besitos
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Protecci?n para tus hijos en internet. 
+Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_proteccioninfantil
+
+
+
+From davidsor at gmail.com  Mon Nov 21 19:44:19 2005
+From: davidsor at gmail.com (DavidS)
+Date: Mon, 21 Nov 2005 19:44:19 +0100
+Subject: [Pdassii-dlm] Fwd: acta y tutorial
+In-Reply-To: <BAY104-F240AFAFA10C8B42AC860F690720@phx.gbl>
+References: <BAY104-F240AFAFA10C8B42AC860F690720@phx.gbl>
+Message-ID: <ea27f6130511211044q2324a506x@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Mar?a Alonso <maria_peb23 at hotmail.com>
+Date: 21-oct-2005 11:21
+Subject: acta y tutorial
+To: davidsor at gmail.com, leticia at lgg.biz
+
+
+
+Hola!!!
+
+Os mando le tutorial prometido (por fin!!!) y el acta de la re?ni?n de
+ayer. Ya me decis si hay que hacer cambios en el acta. Besitos
+________________________________
+Recibe ofertas de empleo adaptadas a tu perfil. Introduce tu CV en MSN Empleo.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: acta20oct.pdf
+Type: application/pdf
+Size: 303930 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20051121/85ec6083/attachment.pdf>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Tutorial de J2ME.zip
+Type: application/x-zip-compressed
+Size: 973882 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20051121/85ec6083/attachment.bin>
+
+From davidsor at gmail.com  Mon Nov 21 19:49:44 2005
+From: davidsor at gmail.com (DavidS)
+Date: Mon, 21 Nov 2005 19:49:44 +0100
+Subject: [Pdassii-dlm] Fwd: Articulo
+In-Reply-To: <FNEPLDHIKHAOIDLPJMCKAEKFDCAA.manu.ortega@fdi.ucm.es>
+References: <FNEPLDHIKHAOIDLPJMCKAEKFDCAA.manu.ortega@fdi.ucm.es>
+Message-ID: <ea27f6130511211049o4d2a45d6x@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Manuel Ortega <manu.ortega at fdi.ucm.es>
+Date: 02-nov-2005 13:02
+Subject: Articulo
+To: Jos? David Soria Soler <davidsor at gmail.com>, Leticia Garc? Garc?a
+<leticia at lgg.biz>, Mar?a Alonso L?pez <maria_peb23 at hotmail.com>
+
+
+No es sobre lo que estais haciendo pero tiene su "influencia colateral"
+Saludos
+
+               Manu
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: p68-goldschmidt.pdf
+Type: application/pdf
+Size: 83480 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20051121/66b585e2/attachment.pdf>
+
+From davidsor at gmail.com  Mon Nov 21 19:50:06 2005
+From: davidsor at gmail.com (DavidS)
+Date: Mon, 21 Nov 2005 19:50:06 +0100
+Subject: [Pdassii-dlm] =?ISO-8859-1?Q?Fwd:_Documentaci=F3n_varia?=
+In-Reply-To: <4509.147.96.4.118.1131362478.squirrel@webmail.lgg.biz>
+References: <4509.147.96.4.118.1131362478.squirrel@webmail.lgg.biz>
+Message-ID: <ea27f6130511211050s1aaa22a4x@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: leticia at lgg.biz <leticia at lgg.biz>
+Date: 07-nov-2005 12:21
+Subject: Documentaci?n varia
+To: DavidS <davidsor at gmail.com>
+Cc: Mar?a Alonso <maria_peb23 at hotmail.com>, "leticia at lgg.biz" <leticia at lgg.biz>
+
+
+Os adjunto la plantilla que coment?, por si la queremos usar como idea.
+Adem?s estos son los enlaces de un par de p?ginas sobre triangulaci?n:
+- http://www.monografias.com/trabajos18/gps-solucion/gps-solucion.shtml
+- http://html.rincondelvago.com/triangulacion-topografica.html
+
+El primero es mejor y creo que nos puede servir con algunas consideraciones.
+
+Muchos besos.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: plantilla.doc
+Type: application/msword
+Size: 95744 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20051121/57335ab5/attachment.doc>
+
+From leticia at lgg.biz  Tue Nov 22 14:05:56 2005
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Tue, 22 Nov 2005 08:05:56 -0500 (EST)
+Subject: [Pdassii-dlm] Software laboratorios
+Message-ID: <2180.147.96.4.118.1132664756.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Yo me encargo de escribir el correo para Manuel Ortega.
+
+Por cierto esto tambi?n es una prueba del funcionamiento de la lista asi
+que solicito confirmaci?n de la recepci?n del mensaje.
+
+Saludos,
+
+
+
+From davidsor at gmail.com  Tue Nov 22 18:55:49 2005
+From: davidsor at gmail.com (DavidS)
+Date: Tue, 22 Nov 2005 18:55:49 +0100
+Subject: [Pdassii-dlm] =?ISO-8859-1?Q?reunion_con_Septi=E9n?=
+Message-ID: <ea27f6130511220955y7a1f197cx@mail.gmail.com>
+
+Hola chicas.
+A ver, primero,email recibido Leti. La lista funciona.
+
+Otra cosa.Hoy me he reunido con Julito Septi?n durante un ratin muy
+ameno, en el cual me ha comentado varias cosas que os pondre en
+conocimiento cuando nos reunamos. Mientras, voy a seguir investigando
+por internet a ver si encuentro algo de lo que hemos hablado.
+
+Un beso.
+Ciao
+
+
+From leticia at lgg.biz  Mon Nov 28 09:48:27 2005
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Mon, 28 Nov 2005 03:48:27 -0500 (EST)
+Subject: [Pdassii-dlm] Libros y software
+Message-ID: <3568.147.96.4.118.1133167707.squirrel@webmail.lgg.biz>
+
+Hola,
+
+Varias cositas. Los libros ya est?n pedidos. Se han pedido dos de cada
+(uno para sacar y uno para dejar en sala).
+
+Esto es lo que le voy a enviar a Apodaca. Revisadlo por si se me olvida algo.
+
+Necesitamos la instalaci?n de:
+- umbrello para Linux
+- plugings de J2ME y el wifi toolkit para Eclipse en Linux y en Windows
+- mysql en Linux
+
+Adem?s necesitamos montar un servidor: sistema operativo Linux, servidor
+de impresi?n CUPS. Nosotros lo instalar?amos y solo lo conectar?amos a la
+red cuando lo necesit?ramos.
+
+
+En otro orden de cosas si nos vamos a ver hoy a las 16:00 dadme un toque
+al m?vil (620 52 47 56), es que no le tengo claro.
+
+Saludos,
+
+
+
+
+
+
+From davidsor at gmail.com  Mon Nov 28 12:16:34 2005
+From: davidsor at gmail.com (David Soria)
+Date: Mon, 28 Nov 2005 12:16:34 +0100
+Subject: [Pdassii-dlm] =?ISO-8859-1?Q?reuni=F3n?=
+Message-ID: <ea27f6130511280316l2d2e24d5i@mail.gmail.com>
+
+Creo que si nos vemos a las 16h no?
+Si no se dice nada diferente, alli nos vemos a esa hora.
+Ciao
+
+
+From maria_peb23 at hotmail.com  Tue Nov 29 22:52:31 2005
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 29 Nov 2005 22:52:31 +0100
+Subject: [Pdassii-dlm] prueba
+Message-ID: <BAY112-F2945B83DAE0BA3D2F1AA20904B0@phx.gbl>
+
+Ignorar, esto es una prueba de funcionamiento de las listas de correo
+
+_________________________________________________________________
+Acepta el reto MSN Premium: Correos m?s divertidos con fotos y textos 
+incre?bles en MSN Premium. Desc?rgalo y pru?balo 2 meses gratis. 
+http://join.msn.com?XAPID=1697&DI=1055&HL=Footer_mailsenviados_correosmasdivertidos
+
+
+
+From maria_peb23 at hotmail.com  Tue Nov 29 23:30:29 2005
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Tue, 29 Nov 2005 23:30:29 +0100
+Subject: [Pdassii-dlm] varios asuntos
+Message-ID: <BAY112-F4DD9873B0A51BEC9EEC27904B0@phx.gbl>
+
+Hola!!
+
+Varias cosas:
+-He estado mirando lo de las listas de correo y no lo consigo solucionar. 
+Creo que podeis redireccionar a la direccion que prefirais desde 
+mantenimiento de cuento xo yo lo he hecho y no parece que funcione. Asi que 
+de momento yo lo mando a la lista para que quede constancia y a las 
+direcciones de todos. He pedido ayuda en un foro de berlios, a ver si nos 
+contestan.
+
+-El jueves hemos quedado con Apodaca y me pregunto si tenemos muchas cosas 
+que contarle o en caso contrario podemos desquedar. Yo casi no he hecho nada 
+porque como os conte tenia la boda de mi primo y me tenia que ir fuera y 
+prepararlo todo porque era mazo de pija... En fin que lo unico que tengo 
+hecho es meter la clave y todavia no lo he comunicado con la base de datos 
+asi que es una tonteria. No lo he subido al CVS porque no se que cosas del 
+proyecto eclipse tengo que subir. No he visto que hayais subido nada 
+vosotros y no se si es porque no habeis adelantado nada  o porque os pasa lo 
+mismo que a mi. Asi que si os parece desquedamos con Apodaca.
+
+-Leticia mandaste un documento a Documentos y lo has dejado pending. Yo no 
+he querido tocar nada. Creo que tienes permisos para estas cosas.
+
+_________________________________________________________________
+M?viles, DVD, c?maras digitales, coleccionismo... Con unas ofertas que ni te 
+imaginas. http://www.msn.es/Subastas/
+
+
+
+From leticia at lgg.biz  Wed Nov 30 10:21:22 2005
+From: leticia at lgg.biz (leticia at lgg.biz)
+Date: Wed, 30 Nov 2005 04:21:22 -0500 (EST)
+Subject: [Pdassii-dlm] Re: varios asuntos
+Message-ID: <4074.147.96.4.118.1133342482.squirrel@webmail.lgg.biz>
+
+Me llegan los correos dos veces porque funciona mi direcci?n en la lista,
+no se muy bien como lo hice, pero va.
+
+Lo del pending no lo sab?a, yo lo sub? todo lo que pude.
+
+Tengo un par de cosas con el cvs:
+- no se como quitar el acta y pasarla a la documentaci?n
+- no se que es attic que es una carpeta que hay en el cvs
+
+Por mi desquedamos pero necesito que me resolvais eso.
+
+Si os llega dos veces es que funciona la lista
+
+
+
+From davidsor at gmail.com  Wed Nov 30 12:00:48 2005
+From: davidsor at gmail.com (David Soria)
+Date: Wed, 30 Nov 2005 12:00:48 +0100
+Subject: [Pdassii-dlm] Re: varios asuntos
+In-Reply-To: <4074.147.96.4.118.1133342482.squirrel@webmail.lgg.biz>
+References: <4074.147.96.4.118.1133342482.squirrel@webmail.lgg.biz>
+Message-ID: <ea27f6130511300300y61dbc6bdp@mail.gmail.com>
+
+vaya....pues yo estoy como Maria, no me funciona la dichosa lista joo :(
+Lo de desquedar lo veo "bien"...yo ya sabeis en que ando metido, asi
+que cualquier cosa o puntualizaci?n lo vemos por email.
+
+Leti, tienes que decirnos que diablos has hecho en el berlios para que
+la lista te funcione a ti y a nosotros no :(
+
+besos
+
+
+From maria_peb23 at hotmail.com  Wed Nov 30 16:18:39 2005
+From: maria_peb23 at hotmail.com (=?iso-8859-1?B?TWFy7WEgQWxvbnNv?=)
+Date: Wed, 30 Nov 2005 16:18:39 +0100
+Subject: [Pdassii-dlm] pues el mismo de antes
+Message-ID: <BAY112-F28C19888143B49E6CC9F13904A0@phx.gbl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pdassii-dlm/attachments/20051130/e6eaf072/attachment.html>
+
